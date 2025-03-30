@@ -1,6 +1,6 @@
 ---
 author: Nhi Vo
-title: The Experiment \|2\|
+title: The Experiment |2|
 publishDate: 2015-11-12
 tags:
   - English
