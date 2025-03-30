@@ -2,42 +2,42 @@
 title: About
 seo:
   title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
+  description: Learn more about the person behind this beautiful life.
   image:
-    src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer
+    src: '/profile.jpg'
+    alt: Profile photo
 ---
 
-![Alt text for image](/about.jpeg)
+![Alt text for image](/profile.jpg)
 
 **Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
-## Ethan Donovan - Web Developer based in Estonia
+## Nhi Vo, Ph.D. - Data Science and Analytics Leader
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**Greetings!** I'm **Nhi Vo**, a data science and analytics leader with a Ph.D. and a deep love for all things data — especially the messy, complicated kind. I thrive on optimizing algorithms, designing scalable analytics systems, and making sense of chaos with machine learning and statistical models. My expertise spans machine learning, statistical modeling, and large-scale data analysis, enabling teams to make informed, data-driven decisions. I have a passion for sharing knowledge and insights, and I believe in the power of collaboration to drive innovation. I am committed to continuous learning and growth, and I am always looking for new challenges and opportunities to expand my skill set. Feel free to reach out if you want to connect or collaborate on a project. Let's make data work for us!
 
 ## Skills and Expertise
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+I specialize in machine learning, statistical modeling, data analysis, and building scalable data solutions. My tech stack includes **Python**, **R**, **SQL**, **Druid SQL**, **Spark**, **Looker**, **Superset**, **Docker**, **AirFlow**, and many other data tools, and machine learning frameworks like **TensorFlow** and **Scikit-Learn**. I excel in optimizing data pipelines, performing advanced analytics, and implementing predictive models to drive business outcomes.
 
-## Innovation and Problem-Solving
+## Data-Driven Problem Solving
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+I thrive on tackling complex problems and transforming raw data into meaningful insights. Whether it's designing machine learning models, automating data workflows, or optimizing data infrastructure, I approach every challenge with a keen eye for efficiency and innovation.
 
 ## Global Perspective, Local Impact
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+While I’m based in [Your Location], I have a global perspective on data science, working with teams across various industries and countries to unlock the potential of their data. I understand the importance of tailoring data solutions to both local and global contexts, ensuring they are both impactful and scalable.
 
 ## Continuous Learning
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+The world of data science is constantly evolving, and I am always exploring new methodologies, algorithms, and tools to stay ahead of the curve. I’m dedicated to expanding my expertise and keeping up with the latest trends to deliver the best possible solutions.
 
 ## Collaboration and Communication
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+I believe in the power of collaboration and clear communication. Whether working with cross-functional teams, stakeholders, or clients, I prioritize transparency and teamwork to ensure the success of each project. I take pride in making complex technical concepts understandable for everyone.
 
 ## Get in Touch
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
+Interested in discussing how data science can drive your project forward or need help with a challenging problem? I'd love to connect! Feel free to reach out for collaboration, consultation, or just to talk about the latest in data science. Drop me an email at [vnyennhi@gmail.com](mailto:vnyennhi@gmail.com), and I'll do my best to respond as soon as possible.
 
-_Let's build something amazing together!_
+_Let's harness the power of data together!_

@@ -38,12 +38,12 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Nhi Vo',
+    subtitle: 'Nhi Vo\'s Website',
+    description: 'Nhi Vo\'s Website - My Corner of Code, Curation and Curiosity',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/profile.jpg',
+        alt: 'Preview of the website'
     },
     headerNavLinks: [
         {
@@ -75,31 +75,31 @@ const siteConfig: SiteConfig = {
         {
             text: 'Terms',
             href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/nhi-vo/'
+        },
+        {
+            text: 'Google Scholar',
+            href: 'https://scholar.google.com.au/citations?user=qS_smE8AAAAJ'
         },
         {
             text: 'Instagram',
-            href: 'https://instagram.com/'
+            href: 'https://www.instagram.com/vnyennhi/'
         },
         {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'Tumblr',
+            href: 'https://www.tumblr.com/nh1v0'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Hello World & Welcome to My Corner of Code, Curation and Curiosity!',
+        text: "I'm **Nhi Vo**, a data science and analytics leader with a Ph.D. and a deep love for all things data — especially the messy, complicated kind. I thrive on optimizing algorithms, designing scalable analytics systems, and making sense of chaos with machine learning and statistical models. My expertise spans machine learning, statistical modeling, and large-scale data analysis, enabling teams to make informed, data-driven decisions. I have a passion for sharing knowledge and insights, and I believe in the power of collaboration to drive innovation. I am committed to continuous learning and growth, and I am always looking for new challenges and opportunities to expand my skill set. Feel free to reach out if you want to connect or collaborate on a project. Let's make data work for us!",
         image: {
-            src: '/hero.jpeg',
+            src: '/profile.jpg',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
@@ -110,8 +110,8 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
+        title: 'Subscribe to My Newsletter',
+        text: 'One update per month. All the latest posts directly in your inbox.',
         formUrl: '#'
     },
     postsPerPage: 8,
