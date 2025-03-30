@@ -7,7 +7,7 @@ tags:
   - Fiction
 ---
 [
-{% include image.html url="/assets/img/posts/file1701347712205.jpg" caption="](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8-phQQNAjxcu0MXCIGZ6vURITJaFs_5ewqa8h0qNsQLkJGpEiSNeKLKlJcGcQ1ZZE3cjMN8CzDyYdkpCuGr5xmGST7Qs45dTaReRfs8IgHJ6WooBSaT_B2Y__8cbLPF5DDl-ZxpVJ-lJn/s1600/file1701347712205.jpg)*" alt="" %}
+{% include image.html url="/src/public/fetched_images/file1701347712205.jpg" caption="*" alt="" %}
 **Author notes**** ***
 1. Tính chờ 59 ngày sau mới viết tiếp, cơ mà sáng nay nghĩ ra cốt truyện tiếp theo, viết luôn kẻo 59 ngày sau lại quên mất.
 2. Thôi bữa nay không lảm nhảm vậy, vô đề luôn cho nó khoẻ.

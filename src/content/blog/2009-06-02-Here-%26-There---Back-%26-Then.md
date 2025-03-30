@@ -7,7 +7,7 @@ tags:
   - Poem
 ---
 [
-{% include image.html url="/assets/img/posts/Romantic-Life-Wallpaper.jpg" caption="](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW0Yc7znxkCMlXUu65ruxsLbmR8frUT-9u1elmTQotEZWBDAt2-P9AP7-O42U2G6WsYefzd4L-ZUyOfEbZbOVdcocb_EkLdHRq26SaAU7OduqPlYjmLQkFIWbscNEqhb779Ei8HcEAxySD/s1600/Romantic-Life-Wallpaper.jpg)" alt="" %}
+{% include image.html url="/fetched_images/Romantic-Life-Wallpaper.jpg" caption="" alt="" %}
 "There" is the place I don't wanna leave.
 "Back" is the time I don't wanna pass.
 "Here" is the place I don't wanna live.
