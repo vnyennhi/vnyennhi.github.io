@@ -6,7 +6,7 @@ tags:
   - English
   - Poem
 ---
-![](/public/pursuit_of_happiness_by_aquasixio-d5tx8jw.jpg)
+![](/pursuit_of_happiness_by_aquasixio-d5tx8jw.jpg)
 
 The open sky
 No road no path and no line

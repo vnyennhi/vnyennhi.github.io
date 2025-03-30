@@ -7,7 +7,7 @@ tags:
   - Poem
   - Personal
 ---
-![](/public/Lupe-Fiasco-Lasers.jpg)
+![](/Lupe-Fiasco-Lasers.jpg)
 
 I am just a living thing.
 I think so I am \(Je pense donc je suis\)

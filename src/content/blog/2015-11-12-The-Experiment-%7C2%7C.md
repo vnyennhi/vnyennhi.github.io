@@ -6,7 +6,7 @@ tags:
   - English
   - Fiction
 ---
-![](/public/file1701347712205.jpg)
+![](/file1701347712205.jpg)
 
 *
 

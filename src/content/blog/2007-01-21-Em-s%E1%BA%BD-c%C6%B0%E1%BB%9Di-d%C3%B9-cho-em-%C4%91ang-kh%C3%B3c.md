@@ -6,7 +6,7 @@ tags:
   - Vietnamese
   - Personal
 ---
-![](/public/1320236049_1(1).jpg)
+![](/1320236049_1(1).jpg)
 
 Cái này dành cho blog mới của mi, Bamboo. 
 

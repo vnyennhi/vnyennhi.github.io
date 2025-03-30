@@ -6,7 +6,7 @@ tags:
   - English
   - Poem
 ---
-![](/public/Fairytale_by_im_ella.jpg)
+![](/Fairytale_by_im_ella.jpg)
 
 In a land far, far away
 
@@ -34,7 +34,7 @@ The story does not always go as planned.
 This is the tale of one not go as planned
 
 
-\-\-\-
+---
 
 
 Years ago, when I was younger
@@ -43,7 +43,7 @@ She was mine and we were sweethearts
 That was then, but then it's true
 
 
-\-\-\-
+---
 
 
 She was walking by
@@ -61,7 +61,7 @@ She never laughed. She only sighed
 And continued with her own glide.
 
 
-\-\-\-
+---
 I'm in love with a fairytale
 
 
@@ -70,7 +70,7 @@ Even though it hurts
 I'm already cursed
 
 
-\-\-\-
+---
 
 
 You told me once. You told me twice
@@ -85,14 +85,14 @@ Never love one not your kind
 Never fall for a siren cry
 
 
-\-\-\-
+---
 Every day we started fighting
 Every night we fell in love
 No one else could make me sadder
 But no one else could lift me high above
 
 
-\-\-\-
+---
 
 
 Is it over yet?
@@ -110,7 +110,7 @@ Could not return to where had left
 For her it shed
 
 
-\-\-\-
+---
 
 
 She's a fairytale, yeah...
@@ -119,7 +119,7 @@ Even though it hurts
 I'm already cursed
 
 
-\-\-\-
+---
 
 
 This poem is written down in the inspiration by the song "Fairytale" \- 1st prize at Eurovision song contest. Mostly of the story is my delusional dream ^^

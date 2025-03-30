@@ -7,7 +7,7 @@ tags:
   - Fiction
   - Love
 ---
-![](/public/cup_of_coffee-wallpaper-5120x3200.jpg)
+![](/cup_of_coffee-wallpaper-5120x3200.jpg)
 
 **08.06.2014******03.11.2013********
 

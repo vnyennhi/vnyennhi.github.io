@@ -8,13 +8,13 @@ tags:
   - Life
   - Personal
 ---
-![](/public/img_2575.jpg)
+![](/img_2575.jpg)
 
 Muốn bỏ trốn 1 thời gian, bay theo 1 con bướm đêm nào đó ....
 Nhưng vẫn bị sợi dây ràng buột ấy níu giữ ... mong manh nhưng ko dứt bao giờ
 
 
-\-\-\-
+---
 
 
 Mộng hồ điệp chấp cánh phù du

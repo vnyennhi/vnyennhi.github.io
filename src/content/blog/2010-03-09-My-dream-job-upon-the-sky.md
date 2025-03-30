@@ -6,7 +6,7 @@ tags:
   - English
   - Personal
 ---
-![](/public/280046main_CassAcomposite_HI.jpg)
+![](/280046main_CassAcomposite_HI.jpg)
 
 Working for NASA \(National Aeronautics and Space Administration\) is the dream of many people. When I was a little girl, my dream could not be any different. I wanted to pursue a career at NASA, where I could do my dream job as an astronaut. I would love to have the opportunity to go into space and do something very few people can do nowadays, but millions upon millions will be able to do within the next hundred years. It is not the final frontier after all, and I wanted to surpass it in my lifetime.
 

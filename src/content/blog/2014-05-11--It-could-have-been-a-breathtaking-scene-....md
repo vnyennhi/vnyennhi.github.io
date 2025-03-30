@@ -7,7 +7,7 @@ tags:
   - Life
   - Personal
 ---
-![](/public/1+-+Kopya.jpg)
+![](/1+-+Kopya.jpg)
 
 With the COVID\-19 pandemic, my travel life has been paused for quite a while. I had some free time to go through my travel photos and diary, which reminds me of a time I might have been in great danger on the road of Turkey.
 

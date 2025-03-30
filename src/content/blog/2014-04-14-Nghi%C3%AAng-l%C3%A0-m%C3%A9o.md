@@ -10,7 +10,7 @@ tags:
   - Love
   - Personal
 ---
-![](/public/1712292.jpg)
+![](/1712292.jpg)
 
 Chỉ cần nghiêng đầu là thấy méo ...
 

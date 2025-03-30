@@ -6,7 +6,7 @@ tags:
   - Vietnamese
   - Fiction
 ---
-![](/public/337364-9771e80549407b0e8e4738f05c8c64d7-l.jpg)
+![](/337364-9771e80549407b0e8e4738f05c8c64d7-l.jpg)
 
 Tương truyền về người con gái mặc áo đỏ trong một chiều mưa tháng 7 đứng chờ cầu ô thước trong vô vọng của sự lãng quên\!\!\! Cổ nhân dạy họa có qua khúc cua này lúc trời mưa, hãy nhìn thẳng trước mặt và lướt qua thật nhanh, và tuyệt đối không được nhìn vào gương bên vệ đường. Người con gái mặc áo đỏ luôn đứng đó trong chiều mưa. Nếu là con gái sẽ bị tai nạn giao thông khủng khiếp. Còn là con trai thì ...
 

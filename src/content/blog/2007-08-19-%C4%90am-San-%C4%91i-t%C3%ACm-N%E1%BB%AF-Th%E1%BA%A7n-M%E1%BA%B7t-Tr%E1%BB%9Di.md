@@ -6,7 +6,7 @@ tags:
   - Vietnamese
   - Fiction
 ---
-![](/public/lol-leona-the-radiant-dawn.jpg)
+![](/lol-leona-the-radiant-dawn.jpg)
 
 Thu hoàn nhất nhất lâm thụ phongBút khai độc độc nhân hứng hành.Tp.HCM 19/8/2007, một chiều mưa.
 

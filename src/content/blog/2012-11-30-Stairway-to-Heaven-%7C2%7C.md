@@ -8,7 +8,7 @@ tags:
   - Fiction
   - Personal
 ---
-![](/public/stairway.jpg)
+![](/stairway.jpg)
 
 Cách đây cũng khá lâu rồi, có một con bé ngây thơ tin vào những chuyện tình đẹp vẫn tồn tại trên cái cõi đời nhiễu nhương này. Nó đọc những câu chuyện đẹp trên báo chí, trên những trang tiểu thuyết và trong cả những giấc mơ.
 

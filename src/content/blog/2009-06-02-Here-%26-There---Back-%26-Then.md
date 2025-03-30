@@ -6,7 +6,7 @@ tags:
   - English
   - Poem
 ---
-![](/public/Romantic-Life-Wallpaper.jpg)
+![](/Romantic-Life-Wallpaper.jpg)
 
 "There" is the place I don't wanna leave.
 

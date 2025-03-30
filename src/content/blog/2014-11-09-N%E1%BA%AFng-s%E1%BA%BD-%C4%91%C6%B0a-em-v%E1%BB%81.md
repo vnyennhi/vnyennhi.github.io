@@ -6,7 +6,7 @@ tags:
   - Vietnamese
   - Fiction
 ---
-![](/public/girl-hair-meadow-403.jpg)
+![](/girl-hair-meadow-403.jpg)
 
 
 Tách

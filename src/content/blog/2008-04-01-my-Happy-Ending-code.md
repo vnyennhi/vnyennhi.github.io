@@ -8,7 +8,7 @@ tags:
   - Fiction
   - Personal
 ---
-![](/public/keep-calm-and-continue-studying-64.png)
+![](/keep-calm-and-continue-studying-64.png)
 
 < html >
 

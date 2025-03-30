@@ -6,7 +6,7 @@ tags:
   - Vietnamese
   - Fiction
 ---
-![](/public/WO-DOC-FIGURE-3.png)
+![](/WO-DOC-FIGURE-3.png)
 
 Joking Entertainment presents
 

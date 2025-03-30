@@ -6,7 +6,7 @@ tags:
   - Vietnamese
   - Fiction
 ---
-![](/public/stopping_by_the_woods_on_a_rainy_evening-968742.jpg)
+![](/stopping_by_the_woods_on_a_rainy_evening-968742.jpg)
 
 Ai \(哀\)
 

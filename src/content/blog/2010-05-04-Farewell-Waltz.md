@@ -7,7 +7,7 @@ tags:
   - Poem
   - Personal
 ---
-![](/public/waltz6.jpg)
+![](/waltz6.jpg)
 
 One last waltz
 Sunk by rhythms

@@ -12,13 +12,13 @@ Brisbane, Feb 2023
 
 I took this photo while lying down under the clear blue sky and green trees next to the Brisbane river on a sunny afternoon in February 2023. The caption is from a dear friend, whose words spell out my thought better than mine. 
 
-![](/public/1CA0174E-032A-4C8D-9318-F7DB361E0E10.JPG)
+![](/1CA0174E-032A-4C8D-9318-F7DB361E0E10.JPG)
 
 "Sometimes, deep down inside us is still a fearful child who has yet to grow."
 
 And suddenly, I feel like I need to spend time with that child inside me, time lying on the grass, looking at the sky, wondering and writing about life as time passes by.
 
-\-\-\-
+---
 
 Sydney, Feb 2023
 
@@ -35,7 +35,7 @@ I hate I'm leaving you, with no words left to say...
 
 The chorus of a song \("[Hemingway, 74 Rue De Cardinal]https://www.youtube.com/watch?v=eg-yIC9J46w)"\) I put on repeat for days is speaking for myself. I'm no Hemingway, and my soul have no words left to say.
 
-\-\-\-
+---
 
 ## Rue De Cardinal
 Sydney, Feb 2023
@@ -46,7 +46,7 @@ And snap. She broke down with a stroke, lying on the cold bathroom floor. 
 
 The water is still running.
 
-\-\-\-
+---
 
 Paris, Feb 1923
 

@@ -8,7 +8,7 @@ tags:
   - Fiction
   - Personal
 ---
-![](/public/5755_Morning-exercises-in-a-beautiful-sunny-day.jpg)
+![](/5755_Morning-exercises-in-a-beautiful-sunny-day.jpg)
 
 Một đám mây nhỏ không thể bao cả bầu trời. Một đám mây nhỏ lại có thể che cả mặt trời, giấu hết những ánh nắng ấm áp sưởi ấm nhân giang. Phong trần nỡ đành lòng mang mây đến rồi đưa mây đi, để cái kiếp người đa mang vẫn phải đành đoạn với tự tâm. Hay chăng người bảo vệ ta khỏi phù du vĩnh cửu, lôi ta ra khỏi phận thiêu thân tự giết mình trong bỏng cháy của nắng mai. Thôi thì cho ta xin một bóng tối, để biết mình vẫn cần lắm ánh sáng, cần lắm hơi ấm, cần lắm yêu thương. Ta nguyện làm thiêu thân để biết mình đương sống chứ không chỉ tồn tại. Ta thà chết trong hào quang còn hơn cứ mãi âm thầm đứng dưới bóng mây.
 

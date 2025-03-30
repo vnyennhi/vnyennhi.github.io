@@ -6,7 +6,7 @@ tags:
   - Vietnamese
   - Personal
 ---
-![](/public/letter.jpg)
+![](/letter.jpg)
 
 This is from a friend, to a friend and for a friend\!
 

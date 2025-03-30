@@ -6,7 +6,7 @@ tags:
   - Vietnamese
   - Fiction
 ---
-![](/public/BloodRose.jpg)
+![](/BloodRose.jpg)
 
 Ngày … tháng 5 năm 2005
 

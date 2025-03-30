@@ -6,7 +6,7 @@ tags:
   - English
   - Poem
 ---
-![](/public/013.jpg)
+![](/013.jpg)
 
 Morning sunlight flooded through branches
 A curtain of crystal drops shed with ease

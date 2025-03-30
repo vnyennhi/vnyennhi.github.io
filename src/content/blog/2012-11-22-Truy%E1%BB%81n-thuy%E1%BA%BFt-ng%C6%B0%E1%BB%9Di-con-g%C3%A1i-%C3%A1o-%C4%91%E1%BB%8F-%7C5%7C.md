@@ -6,7 +6,7 @@ tags:
   - Vietnamese
   - Fiction
 ---
-![](/public/leftbank+ladies2.JPG)
+![](/leftbank+ladies2.JPG)
 
 Đồng xanh, nắng vàng, và hoa dại trắng ...
 

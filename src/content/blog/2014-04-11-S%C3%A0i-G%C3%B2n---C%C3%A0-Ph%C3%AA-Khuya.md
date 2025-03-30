@@ -7,7 +7,7 @@ tags:
   - Life
   - Personal
 ---
-![](/public/sai_gon.jpeg)
+![](/sai_gon.jpeg)
 
 ... hay những bước chân trần lang thang giữa nhân gian.
 

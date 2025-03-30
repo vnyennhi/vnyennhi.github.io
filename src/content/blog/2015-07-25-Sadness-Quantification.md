@@ -6,7 +6,7 @@ tags:
   - English
   - Math
 ---
-![](/public/dce581d1bfd3d6c281f02f6e79057aee-d914e83.png)
+![](/dce581d1bfd3d6c281f02f6e79057aee-d914e83.png)
 
 
 It is almost midnight here, the time of the day when I lose every common sense in order to indulge myself in thoughts. These days, all of my thinking is about sadness. Surrounded by such a melancholy ambiance, my heart is suffocated in these invisible walls of strangers and acquaintances. If only there was a cure for this mental sickness, ... if and only if the sadness can be estimated, measured and quantified via a math formula. 

@@ -7,7 +7,7 @@ tags:
   - Love
   - Personal
 ---
-![](/public/il_fullxfull.307022072.jpg)
+![](/il_fullxfull.307022072.jpg)
 
 Sitting alone here with the sad\-happy state I'm in,
 I can't help but to keep missing you,

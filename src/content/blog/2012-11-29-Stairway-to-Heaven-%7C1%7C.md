@@ -7,7 +7,7 @@ tags:
   - Life
   - Fiction
 ---
-![](/public/stairway-to-heaven-211384.jpg)
+![](/stairway-to-heaven-211384.jpg)
 
 \_ Oe … oe … oe\!
 

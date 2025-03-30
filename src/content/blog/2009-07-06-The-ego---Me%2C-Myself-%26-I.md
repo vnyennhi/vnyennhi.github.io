@@ -6,7 +6,7 @@ tags:
   - English
   - Poem
 ---
-![](/public/ego.jpg)
+![](/ego.jpg)
 
 The ego never dyes
 Always hides, always lies

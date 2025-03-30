@@ -7,7 +7,7 @@ tags:
   - Fiction
 ---
 
-![](/public/2892668013_841e1e186d_b.0.jpg)
+![](/2892668013_841e1e186d_b.0.jpg)
 
 *Author Notes*
 
