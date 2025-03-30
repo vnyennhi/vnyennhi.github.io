@@ -1,6 +1,6 @@
 ---
 author: Nhi Vo
-title: Truyền thuyết người con gái áo đỏ |3|
+title: Truyền thuyết người con gái áo đỏ \|3\|
 publishDate: 2012-10-21
 tags:
   - Vietnamese

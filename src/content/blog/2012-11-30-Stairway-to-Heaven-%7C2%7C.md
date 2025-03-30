@@ -1,6 +1,6 @@
 ---
 author: Nhi Vo
-title: Stairway to Heaven |2|
+title: Stairway to Heaven \|2\|
 publishDate: 2012-11-30
 tags:
   - Vietnamese
