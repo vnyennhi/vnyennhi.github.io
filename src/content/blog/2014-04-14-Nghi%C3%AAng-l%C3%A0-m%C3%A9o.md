@@ -10,9 +10,7 @@ tags:
   - Love
   - Personal
 ---
-[
-
-![](/public/1712292.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzfKHI3DHTbZfT0-R26R-9RruwEmcl4xX-GiOaIndsLxHpHDTX6YUlkd8l0s0KjRfhlRc05pp4gkQNdz7Oxj7yQfV-0fLV0nC8LS4YAcB_NKSpVAjr_bif70k74xsEopDuX56v0tvZwXY_/s1600/1712292.jpg)
+![](/public/1712292.jpg)
 
 Chỉ cần nghiêng đầu là thấy méo ...
 

@@ -6,9 +6,7 @@ tags:
   - Vietnamese
   - Fiction
 ---
-[
-
-![](/public/_Photography_girl_in_the_morning_056382_.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyz0o5qsHc_mziKa9fO_I3ijaI0-zWLcVg1Q67nMgPAuBfhyphenhyphen54wyucF4s_QClDTDs2Zm8W6edMMYBYA7UWGtbfKq_upzojzg6M3K9IGoK8Tc-3cyudYSwiwsGSgm3C3eHztgVRVYszJGde/s1600/_Photography_girl_in_the_morning_056382_.jpg)
+![](/public/_Photography_girl_in_the_morning_056382_.jpg)
 
 Những ngày đầu tháng Mười Hai, Tokyo trở lạnh đột ngột khiến mọi người đều giấu cuộc sống của mình sâu trong nhiều lớp áo ấm. Chỉ khi đã ở trong căn hộ chung cư ấm áp của mình, Karin mới dám cởi bỏ chiếc áo măng tô dày và cặp kính đen, che giấu thân hình gợi cảm và khuôn mặt khả ái của một người nổi tiếng. Đã lâu rồi cô không thoải mái dạo phố mùa Giáng Sinh mà không lo bị người hâm mộ phát hiện. Hơn 80% đàn ông ở xứ sở Mặt trời mọc này biết đến cô, không chỉ qua bộ phim Tarantella đã đạt giải ở Đông Âu mà qua cả những đoạn quảng cáo nước khoáng nhan nhản hàng ngày trên truyền hình. 
 

@@ -6,9 +6,7 @@ tags:
   - Vietnamese
   - Fiction
 ---
-[
-
-![](/public/stopping_by_the_woods_on_a_rainy_evening-968742.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6NBl7h6jOrcwIXXX0it7Mc_mIjAcqwusx4hq_kmI1nF_mXp7CMJIpm9K0TIDIrdGB51UpWp1p-NEA8cs82z6kJ65jjGW5sS0GGcXpMQMy7NTdcsiABTkaHsIG5YwMEy6caQfVsvvG9WBj/s1600/stopping_by_the_woods_on_a_rainy_evening-968742.jpg)
+![](/public/stopping_by_the_woods_on_a_rainy_evening-968742.jpg)
 
 Ai \(哀\)
 

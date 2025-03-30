@@ -6,9 +6,7 @@ tags:
   - Vietnamese
   - Fiction
 ---
-[
-
-![](/public/66508_10151502320527892_1973997507_n.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidldlroXMIYJCbCbmp1t43chK36l0v9fdWODPSNyGkxrMt-BSFM8gfoSAKE4o7PY-Ohg0YuKHthbQFemGk8wLEFH6-jDvL29Ki4s9cywi9uPDAR_BUb0uiOB_tIfxYeIM6rrw8jOvYhOpM/s1600/66508_10151502320527892_1973997507_n.jpg)
+![](/public/66508_10151502320527892_1973997507_n.jpg)
 
 "Anh Minh ơi ..."
 

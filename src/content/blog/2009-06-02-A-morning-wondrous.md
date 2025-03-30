@@ -6,9 +6,7 @@ tags:
   - English
   - Poem
 ---
-[
-
-![](/public/013.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw0-BR_enyU7gS0MtDncKZOZOl_bJFa10oj7_saFBnT9HKQsyLPQBlI4e-G3Boy5FVqixwIpr8tcl-tE67_9M46nWvT0YGwfy4Uup4e66WfFkx2PJi8xz3-ta4m2rPYfxSe5qal0yFv8lq/s1600/013.jpg)
+![](/public/013.jpg)
 
 Morning sunlight flooded through branches
 A curtain of crystal drops shed with ease

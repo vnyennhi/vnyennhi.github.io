@@ -6,9 +6,7 @@ tags:
   - Vietnamese
   - Fiction
 ---
-[
-
-![](/public/Giant+Werewolves+attacking+Girl+in+Red.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihz5OEC4Q5d49nnbVjHyaiMKfNP2gHnhadfLnrfvo-bAGhNrE0YZnpziv0G6b4OVRfzPIcaUWZvWqeNLfqLOXsrX3N0plD5hPcyLAlcnFbJBacXa4gwXMp7sgXqnLZn_ugkLfSphsLXIFl/s1600/Giant+Werewolves+attacking+Girl+in+Red.jpg)
+![](/public/Giant+Werewolves+attacking+Girl+in+Red.jpg)
 
 Không khí phòng bệnh im lặng một cách tang thương. Tiếng u u của cái điều hoà cũ kỹ khiến sự tĩnh mịch đó u ám lạ kỳ. Thằng Quang bình thường là đứa sôi nổi và hay nói đùa giờ cũng chỉ chú tâm múc từng muống cháo đầy uể oải. Quang không phải một sinh viên ngoan hiền hay đến lớp, nhưng bất kỳ buổi học nào của thấy trưởng khoa nó đều có mặt. Nó cứ bảo muốn trở thành người giỏi phải học từ người giỏi nhất, và trong mắt nó, thầy là người nó ngưỡng một cực kỳ. Thế nên nghe Minh kể chuyện xong, nó cứ cảm thấy có chút gì xót xa trong lòng. Ông trời có mắt không khi để người tốt phải chịu quá nhiều điều dữ trong cuộc sống ngắn ngủi này. Đột nhiên, tiếng chuông điện thoại đổ dồn của Minh ngắt ngang dòng suy nghĩ của Quang, phá tan sự thinh lặng nãy giờ của hai tâm hồn đa cảm.
 

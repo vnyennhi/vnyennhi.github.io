@@ -6,9 +6,7 @@ tags:
   - English
   - Fiction
 ---
-[
-
-![](/public/3_by_The_Kids_Are_Alright.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjTdx5pOyIRI-9M-L9tGMzBbib-PHXtKd07bCX8ibvaB-g3PiiOwM4p3LcneJ9sNt34YXaA_6Xs74CN8_JIBn9nU5x8D7ovEd_HpFiuR2RLDJjTHcYUxI47PLgoVisnEjlEPOWWJuC-R3/s1600/3_by_The_Kids_Are_Alright.jpg)
+![](/public/3_by_The_Kids_Are_Alright.jpg)
 
 “Ring…”
 

@@ -7,9 +7,7 @@ tags:
   - Life
   - Fiction
 ---
-[
-
-![](/public/img_5789_2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghmbasyNfqgJkDCI6HqupmIKudJMjF0RnvmvAHMQ4zwOCfplKm8zIgmF6u2E4ggiwEz8M9RKj5dnMGTPqesIlgd2PdOPwlm-84du-k-0WslSj_DAhkBusoQpjW62x_yCX7Us4ZkdLcnokO/s1600/img_5789_2.jpg)
+![](/public/img_5789_2.jpg)
 
 Genre: Slice of Life, Music, Drama
 Length: Medium \(considering long to many people \- Word count 26000 without spaces\)

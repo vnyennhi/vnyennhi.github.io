@@ -8,9 +8,7 @@ tags:
   - Fiction
   - Love
 ---
-[
-
-![](/public/mermaid_in_pastel-1528531.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsyih_cnj43Cs0yNxkVfBvMZzBpl8Q5djGETB-MzC8fFyeiDzmbiHlnWnbfi_An05wrKB3RlpLfmMfjhFXNCHBxhtG06E9ul0DYMqw8pKcs2XrJuOdBcLBEf1n7xQ8gYGMfUHefZJHMXGZ/s1600/mermaid_in_pastel-1528531.jpg)
+![](/public/mermaid_in_pastel-1528531.jpg)
 
 Đêm nay ai uống cùng ta cho qua cơn say này .....
 

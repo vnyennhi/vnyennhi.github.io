@@ -7,9 +7,7 @@ tags:
   - Life
   - Fiction
 ---
-[
-
-![](/public/stairway-to-heaven-211384.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrgEbojzhDTwvmBdib0-SYCmWiLAnNyeu2tpW36FEBGXS7oxRHRXY1mbLfImhNhUtOv_LFvipD10w9O8lMqCSPEFOLqh5AEaeNryvBjIjPNiQJLxDC1tG8cb0J0MXgVAjdJ9ZaAqzbs-Cy/s1600/stairway-to-heaven-211384.jpg)
+![](/public/stairway-to-heaven-211384.jpg)
 
 \_ Oe … oe … oe\!
 
@@ -339,7 +337,7 @@ tags:
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-Câu chuyện này ta viết vì cái blog mới nhất của mày Bamboo, coi như quà năm mới của ta cho mày vậy\!
 
-Note 1: Đây là fic người thực việc thực nên ai mún hiểu đúng và đủ làm phiền coi trước giùm Nhi trang này:[Ngoisao.net](http://ngoisao.net/) \- Chuyen tinh dep nhat Trung Quoc 2006[ngoisao.net/News/Buon\-chuyen/2..](http://ngoisao.net/News/Buon-chuyen/2007/02/3B9BCB83/)
+Note 1: Đây là fic người thực việc thực nên ai mún hiểu đúng và đủ làm phiền coi trước giùm Nhi trang này:[Ngoisao.net]http://ngoisao.net/) \- Chuyen tinh dep nhat Trung Quoc 2006[ngoisao.net/News/Buon\-chuyen/2..]http://ngoisao.net/News/Buon-chuyen/2007/02/3B9BCB83/)
 
 Note 2: Truyện này Nhi xin phép bỏ lối viết fic thông thường, ko tả cảnh, ko tả người, chỉ có hội thoại và độc thoại nội tâm, có thể hơi khó chịu với 1 số người.
 

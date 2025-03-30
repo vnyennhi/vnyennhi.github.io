@@ -6,9 +6,7 @@ tags:
   - English
   - Math
 ---
-[
-
-![](/public/dce581d1bfd3d6c281f02f6e79057aee-d914e83.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKRxctnag1nJHTXGHI1hPOnLke1zis1EDQzOFT2d_UBHbHYzR9FiyeqeTOB0zAWSmphQt23zqVZ9DBtwatRGplod8_P8ab_F24Fw2122ozfSre-cgcMoB2OeBFKYOF-1ibUSvREja8-g9h/s1600/dce581d1bfd3d6c281f02f6e79057aee-d914e83.png)
+![](/public/dce581d1bfd3d6c281f02f6e79057aee-d914e83.png)
 
 
 It is almost midnight here, the time of the day when I lose every common sense in order to indulge myself in thoughts. These days, all of my thinking is about sadness. Surrounded by such a melancholy ambiance, my heart is suffocated in these invisible walls of strangers and acquaintances. If only there was a cure for this mental sickness, ... if and only if the sadness can be estimated, measured and quantified via a math formula. 

@@ -6,9 +6,7 @@ tags:
   - Vietnamese
   - Personal
 ---
-[
-
-![](/public/1320236049_1(1).jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh89R840BGAY_FATi-da5grgt9ZagkEF-7z0DBsJ75omgezxQj5ecGXTU9fMHpflDHzzr2M7fyLQsfuAZ4FqeJp7IRFIqM0vuLo_8NEXZYcLq5w0FW5kqpxbMNwGg6EielAsPuwsgh3AA0N/s1600/1320236049_1(1).jpg)
+![](/public/1320236049_1(1).jpg)
 
 Cái này dành cho blog mới của mi, Bamboo. 
 

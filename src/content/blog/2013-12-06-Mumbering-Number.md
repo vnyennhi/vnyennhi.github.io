@@ -8,9 +8,7 @@ tags:
   - Life
   - Personal
 ---
-[
-
-![](/public/Lucky_Numbers_by_Moviefreak.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDXXH9wp_WMzg7K0wdfsbCGiYuoGmiW4unKiXW-Gzo_ok-TrvWeQguhj4BVd6WqZ1pAk-BS9ilSoRWfN7Nn_A63DDhULPzoFt8L7tygkVal2R2wjkc1cBpjcAmkWEAyThSgifzv1m1hNoY/s1600/Lucky_Numbers_by_Moviefreak.jpg)
+![](/public/Lucky_Numbers_by_Moviefreak.jpg)
 
 ... or self\-reflection during the quest of finding me\!
 

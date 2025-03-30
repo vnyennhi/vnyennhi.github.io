@@ -6,9 +6,7 @@ tags:
   - English
   - Personal
 ---
-[
-
-![](/public/280046main_CassAcomposite_HI.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhriunpDsF8APetrRZJuoTNC2lSpKzSWIpHIldPZnNNycRYSAKiWO4N9i9y2YswoMMhxbKpsrfaEM4yY7wUrniEi8Wpm7oztOt1fXTYDe-fjv8chkcGnnLnvkeHBNim3XTGlLEVl_CuZnsH/s1600/280046main_CassAcomposite_HI.jpg)
+![](/public/280046main_CassAcomposite_HI.jpg)
 
 Working for NASA \(National Aeronautics and Space Administration\) is the dream of many people. When I was a little girl, my dream could not be any different. I wanted to pursue a career at NASA, where I could do my dream job as an astronaut. I would love to have the opportunity to go into space and do something very few people can do nowadays, but millions upon millions will be able to do within the next hundred years. It is not the final frontier after all, and I wanted to surpass it in my lifetime.
 

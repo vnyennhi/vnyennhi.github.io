@@ -6,9 +6,7 @@ tags:
   - English
   - Poem
 ---
-[
-
-![](/public/Fairytale_by_im_ella.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLqYtyF62vvjtFx0oMoKxVK5FATuTuWMcWcla1cLcpQ_B433btam_94yvhe8aWX8_DQOeKNPktMt_lgu0OS87uC8XRvAJZ_OnMLerjZcRnnYDxSL_z9UEr0pJ8DkmxhIFsaYVkPXM29aJa/s1600/Fairytale_by_im_ella.jpg)
+![](/public/Fairytale_by_im_ella.jpg)
 
 In a land far, far away
 

@@ -12,9 +12,7 @@ Brisbane, Feb 2023
 
 I took this photo while lying down under the clear blue sky and green trees next to the Brisbane river on a sunny afternoon in February 2023. The caption is from a dear friend, whose words spell out my thought better than mine. 
 
-[
-
-![](/public/1CA0174E-032A-4C8D-9318-F7DB361E0E10.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4Gyswx0OIp9bkVgY-MuOKbOgqqtLhk27ulkifpi6bolhdtzYfT3M791Qls2jlszi5OZqeF45zsm-yETrsJOM2dkyEjfM0WvzOIXffFQHW7Sz-KquMonNMLVclDm9eFma1N5QncCMzgF4GuhnicjNelsLmRm43ixAMZdR66maz8w7Up9NS37tYv-B7ww/s1462/1CA0174E-032A-4C8D-9318-F7DB361E0E10.JPG)
+![](/public/1CA0174E-032A-4C8D-9318-F7DB361E0E10.JPG)
 
 "Sometimes, deep down inside us is still a fearful child who has yet to grow."
 
@@ -35,7 +33,7 @@ And oh, if I find my revolution, will I be triumphant or will I be ruined?
 I hate I'm leaving you, with no words left to say...
 
 
-The chorus of a song \("[Hemingway, 74 Rue De Cardinal](https://www.youtube.com/watch?v=eg-yIC9J46w)"\) I put on repeat for days is speaking for myself. I'm no Hemingway, and my soul have no words left to say.
+The chorus of a song \("[Hemingway, 74 Rue De Cardinal]https://www.youtube.com/watch?v=eg-yIC9J46w)"\) I put on repeat for days is speaking for myself. I'm no Hemingway, and my soul have no words left to say.
 
 \-\-\-
 

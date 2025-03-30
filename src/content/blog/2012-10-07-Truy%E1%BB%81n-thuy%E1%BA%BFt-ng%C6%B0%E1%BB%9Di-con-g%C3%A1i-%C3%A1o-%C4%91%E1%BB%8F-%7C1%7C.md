@@ -6,9 +6,7 @@ tags:
   - Vietnamese
   - Fiction
 ---
-[
-
-![](/public/337364-9771e80549407b0e8e4738f05c8c64d7-l.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLJWMcA2cVWjc9gTU8wu-IVKvE8vyhZ3S4RjrhS2LPIE-HFWxJcbp-RYDc1Pia375ABFy7gQY_XctXp8abf5gce8h1D2JBjfD31aDoTcZrgTcEvpeZ3c2QWnZbGQnawmsTno-8E0JZnyyh/s1600/337364-9771e80549407b0e8e4738f05c8c64d7-l.jpg)
+![](/public/337364-9771e80549407b0e8e4738f05c8c64d7-l.jpg)
 
 Tương truyền về người con gái mặc áo đỏ trong một chiều mưa tháng 7 đứng chờ cầu ô thước trong vô vọng của sự lãng quên\!\!\! Cổ nhân dạy họa có qua khúc cua này lúc trời mưa, hãy nhìn thẳng trước mặt và lướt qua thật nhanh, và tuyệt đối không được nhìn vào gương bên vệ đường. Người con gái mặc áo đỏ luôn đứng đó trong chiều mưa. Nếu là con gái sẽ bị tai nạn giao thông khủng khiếp. Còn là con trai thì ...
 

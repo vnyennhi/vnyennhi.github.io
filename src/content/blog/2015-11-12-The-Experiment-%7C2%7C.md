@@ -6,9 +6,7 @@ tags:
   - English
   - Fiction
 ---
-[
-
-![](/public/file1701347712205.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8-phQQNAjxcu0MXCIGZ6vURITJaFs_5ewqa8h0qNsQLkJGpEiSNeKLKlJcGcQ1ZZE3cjMN8CzDyYdkpCuGr5xmGST7Qs45dTaReRfs8IgHJ6WooBSaT_B2Y__8cbLPF5DDl-ZxpVJ-lJn/s1600/file1701347712205.jpg)
+![](/public/file1701347712205.jpg)
 
 *
 

@@ -6,16 +6,15 @@ tags:
   - English
   - Fiction
 ---
-[
 
-![](/public/2892668013_841e1e186d_b.0.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8kMaWdAM6pa8GpIrzaqizug4rggvo7zikCQDE0PGJd58WiHkoyWBFHSkeiJ7MnOJF_SwFjqVWvl_Smd0G4r7J2OVhoTgkVQKYgd-e3fQkAXLsBZI4dquwkW8GOtPfRNwZoXjkJVKUAgaZ/s1600/2892668013_841e1e186d_b.0.jpg)
+![](/public/2892668013_841e1e186d_b.0.jpg)
 
 *Author Notes*
 
 1. 11/11 là ngày Quốc tế Độc thân \(do các bạn F.A. ở không rảnh rỗi tự nghĩ ra\). 
 
 
-2. FB tràn ngập các post liên quan tới \(1\) nên nó nhớ tới một trong những quyển truyện yêu thích nhất mình từng đọc: “Nỗi cô đơn của các số nguyên tố \(The Solitude of Prime Numbers [https://en.wikipedia.org/wiki/The\_Solitude\_of\_Prime\_Numbers](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThe_Solitude_of_Prime_Numbers&h=eAQFk_cHh)\). Truyện vẫn hay hơn phim, nên khuyến cáo đọc truyện trước khi coi phim.
+2. FB tràn ngập các post liên quan tới \(1\) nên nó nhớ tới một trong những quyển truyện yêu thích nhất mình từng đọc: “Nỗi cô đơn của các số nguyên tố \(The Solitude of Prime Numbers [https://en.wikipedia.org/wiki/The\_Solitude\_of\_Prime\_Numbers]https://l.facebook.com/l.php?u=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThe_Solitude_of_Prime_Numbers&h=eAQFk_cHh)\). Truyện vẫn hay hơn phim, nên khuyến cáo đọc truyện trước khi coi phim.
 
 
 3. Vì nhớ tới cuốn truyện ở \(2\), ngẫm lại những quyển sách trong cuộc đời mình, đọc được một quyển sách hay đúng thời điểm âu cũng là duyên số. Cảm hứng viết lách cũng vậy.
@@ -24,7 +23,7 @@ tags:
 4. Nghĩ tới viết lách ở \(3\) mà lòng buồn. Dạo này khả năng viết lách đang dần về âm vô cực. Chắc do dạo này xem nhiều hơn đọc.
 
 
-5. Nhắc tới xem ở \(4\), nhớ tới đoạn clip khá dễ thương này [https://vimeo.com/145154247](https://l.facebook.com/l.php?u=https%3A%2F%2Fvimeo.com%2F145154247&h=eAQFk_cHh) . Chắc phải nghiêm khắc hơn với bản thân, không dành thời gian quý báu coi nhiều thứ linh tinh nữa. 
+5. Nhắc tới xem ở \(4\), nhớ tới đoạn clip khá dễ thương này [https://vimeo.com/145154247]https://l.facebook.com/l.php?u=https%3A%2F%2Fvimeo.com%2F145154247&h=eAQFk_cHh) . Chắc phải nghiêm khắc hơn với bản thân, không dành thời gian quý báu coi nhiều thứ linh tinh nữa. 
 
 
 6. Nhắc tới thời gian ở \(5\) , dạo này không rảnh rỗi lắm, nhưng không muốn làm gì cả, mà vẫn phải làm vì lỡ hứa.

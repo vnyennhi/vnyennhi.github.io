@@ -7,9 +7,7 @@ tags:
   - Life
   - Personal
 ---
-[
-
-![](/public/sai_gon.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNeUk8LAIOMjTI38atWl8vVuxkbRzDFDIVw_0Su-8NEuZ-zB71t8TwT2vDQpKZcV7yeA2BMvwsQ1wD3X_ot_KH34MNF3WraP4RBR06F1_BtTMua5exq1JWUVGaR4SUzGqcvb38_icnwi_x/s1600/sai_gon.jpeg)
+![](/public/sai_gon.jpeg)
 
 ... hay những bước chân trần lang thang giữa nhân gian.
 

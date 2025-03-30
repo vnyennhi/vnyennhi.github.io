@@ -6,9 +6,7 @@ tags:
   - Vietnamese
   - Personal
 ---
-[
-
-![](/public/letter.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHeazW2oIzyNYUqugsNfAF5WWKtjk81_eWCuUEZaUCZx5m-IJbPDiGtx8LxLlxnUOvj-wtgTeGVFrLnLbXhvu5qtuiadjRnegu9HBZ8QoM5CJoEiABsx4XVf2DQGp1ej9mVMgfkXj_ec2-/s1600/letter.jpg)
+![](/public/letter.jpg)
 
 This is from a friend, to a friend and for a friend\!
 

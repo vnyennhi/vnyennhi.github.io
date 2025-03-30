@@ -8,9 +8,7 @@ tags:
   - Life
   - Personal
 ---
-[
-
-![](/public/img_2575.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWeWIr9rPaQUgxfKARW-Pd54DsaM7HrTKCD2WpodMBdoRrWA16MIEtpZhTGudtD7dvowosDajcLgFnwcb2i5IwFHrpaLw0Y3FEBjdmHpDbwWiIts10jDHUqQFhGa86pjyzIENxmE3D_L9/s1600/img_2575.jpg)
+![](/public/img_2575.jpg)
 
 Muốn bỏ trốn 1 thời gian, bay theo 1 con bướm đêm nào đó ....
 Nhưng vẫn bị sợi dây ràng buột ấy níu giữ ... mong manh nhưng ko dứt bao giờ

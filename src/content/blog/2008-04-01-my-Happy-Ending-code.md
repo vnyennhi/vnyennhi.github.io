@@ -8,9 +8,7 @@ tags:
   - Fiction
   - Personal
 ---
-[
-
-![](/public/keep-calm-and-continue-studying-64.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMBTyihCejB-owmMhR8vEJi8FYhV4SZfUTYJGnGy9bSni8V0FEvJr9PvW8NhDtwmLgt1q1lXROhgps9tVeP0hOM-LaQTKUDjp-9ZQixwayBbW7ExZtIovZWvS0OSIZWl9nEgOcpOIY5cxL/s1600/keep-calm-and-continue-studying-64.png)
+![](/public/keep-calm-and-continue-studying-64.png)
 
 < html >
 

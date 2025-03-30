@@ -6,9 +6,7 @@ tags:
   - English
   - Poem
 ---
-[
-
-![](/public/3sf_8285-confession.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDI4YOP0nQV7W71LHoWE6Sh0vqxU0F4NJwd_KGNiE2yJ8Uz3sS0hsgcTwom4t-NdkwyWa_RDyppePuWeXN_CrFv3TKoCvCgYtpee1PL2YVmxsaZ1_I6z7uCqZQFgn9PYXREnW-qUtLoDk0/s1600/3sf_8285-confession.jpg)
+![](/public/3sf_8285-confession.jpg)
 
 On the way back home
 Under heavy rain

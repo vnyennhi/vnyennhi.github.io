@@ -6,9 +6,7 @@ tags:
   - Vietnamese
   - Personal
 ---
-[
-
-![](/public/294255_10150495289947892_577786645_n.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFWUbsjNGdABt6tpgxJ6NnxNerMZoMLxPe_Yq6jgsbqI1-sczVWwRbLD9V7bN2llvUGwjGQqOMNQ-7CSAChzGdeDTamhThLp0ak1ALxBQTaP2HVXO1vPHtIae_x5TDP23YRMmonhWOXRA/s1600/294255_10150495289947892_577786645_n.jpg)
+![](/public/294255_10150495289947892_577786645_n.jpg)
 
 I used to believe that I could write more once fall in love. However, back in the happy days, I did not write much about you and about us. I was busy being with you, staying in your arms, and loving you, so I have no time for thinking, no time for writing.
 

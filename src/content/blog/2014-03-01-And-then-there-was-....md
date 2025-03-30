@@ -8,9 +8,7 @@ tags:
   - Love
   - Personal
 ---
-[
-
-![](/public/playing-piano10.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifMli16IBCtWbq9aCFwazFeLPKmUpWkAnlW2gzrvZXQz08tvMclopNoaU31dAnj2Vd4HAcxHzJ9AfT9w6C4UjjQDP3h5EFgoHSL9Q8gKkbIYzyl4cSFeOkBPEM3arB27b_Ut7m8IGhqvVF/s1600/playing-piano10.jpg)
+![](/public/playing-piano10.jpg)
 
 I was young and naive
 I was lost and carefree

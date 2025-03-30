@@ -6,9 +6,7 @@ tags:
   - Vietnamese
   - Personal
 ---
-[
-
-![](/public/anger_by_liza23q-d7ejepx.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpYU2fGvaRxVGUICkyZbWTapvVKkyaZvFsadVBkdDiTyTTfcyxM7gbbiKu_hUvtD53ssEGBCWBCWpBpIJlSNElfhfwwEibortyasolAPZQm9khi8nRYTq-ZVymSsZQLb0NGnW_DCaOYSPP/s1600/anger_by_liza23q-d7ejepx.jpg)
+![](/public/anger_by_liza23q-d7ejepx.jpg)
 
 Có những thứ có trong tay bỗng chốc hoá tro tàn
 Có những thứ mất đi rồi bỗng chốc kiếm không ra
