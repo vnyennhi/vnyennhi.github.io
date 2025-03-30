@@ -1,16 +1,19 @@
 ---
 author: Nhi Vo
-title: Nắng sẽ đưa em về
+title: "Nắng sẽ đưa em về"
 publishDate: 2014-11-09
 tags:
   - Vietnamese
   - Fiction
 ---
 [
-{% include image.html url="/assets/img/posts/girl-hair-meadow-403.jpg" caption="](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8xOzZ3Y0Ni1jK5PWZQCrLSzk_LiTnwWvhjYJlrEKzpI9bKsRNrU2ai_HjSe0iHrHM_rdtT-9CwaSX525N_CUBpDCSWCnUBUD0g1JOHD2LSnQQUzKkPPi9kN_DNGZVJkl7NqCsL20iQQSf/s1600/girl-hair-meadow-403.jpg)" alt="" %}
+
+![](/public/girl-hair-meadow-403.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8xOzZ3Y0Ni1jK5PWZQCrLSzk_LiTnwWvhjYJlrEKzpI9bKsRNrU2ai_HjSe0iHrHM_rdtT-9CwaSX525N_CUBpDCSWCnUBUD0g1JOHD2LSnQQUzKkPPi9kN_DNGZVJkl7NqCsL20iQQSf/s1600/girl-hair-meadow-403.jpg)
+
 
 Tách
 ... tách ...
+
 
 Cơn
 mưa buổi sớm mai, nhẹ nhàng rớt trên mái hiên cửa sổ như gõ lên từng nốt nhạc.
@@ -22,11 +25,13 @@ nên đến sớm. Vừa bỏ món cà ri vô lò vi sóng để hâm lại, tô
 áo học sinh đã để nhàu nhò suốt hàng tháng trời. Ngày khai giảng thì cũng nên
 nhìn cho tươm tất một chút. 
 
+
 “Itadakimasu\!”.
 Tôi vẫn nói chúc ngon miệng kể cả khi bố Takkun và mẹ Mio đều đang ở Tinh cầu
 Lưu Trữ xa xôi. Mùi cà ri thơm nồng lan toả khắp mọi ngóc ngách của căn hộ bé
 nhỏ, xua tạn đi cái lạnh giá của mùa mưa, nhưng vẫn chưa đủ để khoả lấp cái trống
 vắng của những bữa ăn một mình. 
+
 
 Vừa
 mới tới trường, chưa kịp gấp chiếc ô màu vàng lại, tôi đã nghe giọng thằng bạn
@@ -37,9 +42,11 @@ mới này rất xinh, lớn lên ở một thành phố biển bên Châu Âu, 
 cuộc bình luận sôi nổi của cả lớp, phóng tầm mắt xuống sân trường sũng nước,
 nơi có một cây dù hồng đang lững lờ trôi.
 
+
 “Cả
 lớp trật tự. Hôm nay lớp chúng ta có một bạn mới chuyển tới. Bạn ấy tên là
 Mio.” 
+
 
 Mio
 ư? Có lẽ nào ... Cái tên Mio vang lên như một tiếng sấm giữa rừng mưa tí tách
@@ -48,12 +55,15 @@ có thể nào là ... mẹ Mio? Cố nhớ lại đi Yuji ơi, mình đã từn
 Tinh cầu Lưu Trữ về thăm mình. Mẹ cũng có dáng người mảnh khảnh như thế, cũng
 có nụ cười hiền hậu như thế, phải không? 
 
+
 “Em
 tới ngồi kế bên Yuji đi. Yuji này, có gì em chỉ bảo bạn mới giùm thầy.” 
+
 
 Trước
 khi tôi kịp thoát ra khỏi mê cung ký ức cùng những hình ảnh mờ nhạt trong màn
 mưa về mẹ, Mio đã ngồi xuống cạnh tôi từ lúc nào. 
+
 
 “Chào”,
 Mio vẫn giữ nụ cười ấy, đó chắc chắn là nụ cười của mẹ. Trước giờ chỉ có mẹ Mio
@@ -62,6 +72,7 @@ là cười với Yuji như vậy thôi.
 Mình là Yuji. Rất vui được làm quen với bạn\!”
 “Mình
 cũng vậy. Rất mong được bạn giúp đỡ\!” 
+
 
 Đó
 chắc chắn là mẹ Mio rồi. Cuối cùng mẹ cũng đã đến cùng cơn mưa, mẹ đã về thăm
@@ -72,6 +83,7 @@ Tôi hoang mang với biết bao câu hỏi, cả buổi học chỉ nôn nao sa
 tan trường, để tôi có thể trò chuyện cùng mẹ, để mẹ trả lời những vấn nghi
 trong lòng tôi. 
 
+
 Trong
 lúc tôi vẫn mải mê suy nghĩ về những thứ cần phải kể với mẹ, về việc tôi đã đau
 buồn sau khi bố Takkun quyết định đi tới Tinh cầu Lưu Trữ để ở bên mẹ, về việc
@@ -79,6 +91,7 @@ tôi vẫn còn viết thư cho mẹ mà sao không thấy mẹ hồi âm, thì 
 tôi một mẩu giấy viết vội: “Sau giờ học hãy ra phía sau trường nhé”. Tôi vui
 quá. Như vậy là mẹ Mio vẫn nhận ra tôi và mẹ cũng đang sốt ruột muốn nói chuyện
 với tôi đây mà. Sao năm tiết học bữa nay trôi qua chậm thế\!
+
 
 Chuông
 báo hiệu giờ về vừa vang lên, tôi đã vội thu dọn sách vở trong chớp mắt và lẽo đẽo
@@ -88,20 +101,25 @@ chưa kịp cất hành lý. Không sao, giờ tôi sẽ phụ mẹ mang hành l
 cho mẹ thấy Yuji bé bỏng của mẹ đã lớn khôn rồi, đã thành một chàng trai cao lớn
 khoẻ mạnh, không có mang nhiều bệnh tật như bố Takkun. Mẹ yên tâm là hai cái
 valy này không nhằm nhò gì với sức của Yuji đâu. 
+
  “Ơ ...”, tôi vẫn chưa biết nên bắt đầu nói gì
 với mẹ. Nếu là hồi còn nhỏ, tôi sẽ kêu mẹ thật lớn rồi nhảy vào lòng mẹ, ôm mẹ
 thật chặt. Nhưng giờ đây, tôi còn cao lớn hơn mẹ nhiều nên chắc làm vậy mẹ sẽ
 ngã ra đất mất.
 
+
 “Tớ
 vừa mới tới đây sáng nay, vẫn chưa có chỗ ở. Cậu giúp tớ kiếm chỗ ở nhé?” 
+
 
 Sao
 mẹ lại phải kiếm chỗ ở nhỉ? Sao mẹ không về nhà với Yuji? 
 
+
 “Này,
 cậu đang suy nghĩ gì đấy? Cậu giúp mình nha, tại đống hành lý này nặng quá ...
 mà thấy giáo bảo cần gì thì hỏi cậu mà ...”
+
 
 Vậy
 là mẹ Mio không nhớ gì thật rồi. Không sao. Tôi không giận mẹ đâu. Tại mẹ ở quá
@@ -110,15 +128,19 @@ phần ký ức tại đó. Tôi sẽ giúp mẹ nhớ lại. Nói rồi, tôi c
 valy và đi thật nhanh về phía khu rừng, tới chỗ nhà máy bỏ hoang. Mẹ Mio khó
 khăn lắm với chạy theo kịp tôi.
 
+
 “Đây
 là đâu vậy? Đừng nói cậu giới thiệu cho mình ở nơi hoang vu này nhé?”
+
 
 “Mẹ
 ...”, thở  hổn hển sau chuyến marathon ngắn,
 tôi đã bật ra tiếng nấc nghẹn trong cổ họng. 
 
+
 “Sao
 cậu gọi tớ là mẹ?” Khoé mắt tôi bỗng nhiên cay xè sau câu hỏi đó.
+
 
 “Mẹ
 không nhớ sao? Con là Yuji của mẹ nè. Đây là chỗ mẹ Mio và bố Takkun hay dẫn
@@ -130,6 +152,7 @@ Lưu Trữ. Vậy mà giờ đây, khi được gặp lại mẹ, bao nhiêu c�
 năm tháng qua chợt vỡ oà như bong bóng xà phòng thành cơn mưa xối xả trên đôi
 gò má tôi. 
 
+
 Mẹ
 Mio không nói gì cả, chỉ im lặng lắng nghe rồi đọc những lá thư tôi viết cho mẹ.
 
@@ -139,13 +162,16 @@ mẹ cũng đang rất cố gắng để nhớ lại phải không? Không sao �
 con chứ? Mẹ sẽ ở với con đủ lâu để nhớ ra tất cả, để không còn có thể quên gì cả
 chứ?”
 
+
 Mẹ
 Mio hết nhìn tôi, rồi nhìn những lá thư, lặp đi lặp lại chuyển động tròn đó một
 hồi lâu. Mặt trời đã dần lặn sau những hàng cây, nhưng ánh sáng yếu ớt của buổi
 hoàng hôn cũng đủ để tôi nhìn thấy nụ cười hiền hậu khi mẹ Mio lấy tay gạt hết
 nước mắt trên mặt tôi và nói: “Mình cùng về nhà nhé.” 
 
+
 ...
+
 
 “Mẹ
 ngồi đây đi. Chờ con một chút để con nấu cà ri cho mẹ ăn. Dạo này con nấu cơm
@@ -157,6 +183,7 @@ cảm lắm.”
 không biết mẹ về nên chưa kịp giặt giũ chăn giường sạch sẽ. Hay tối nay mẹ cứ lấy
 chăn của con mà xài. Mai con giặt cho.”
 
+
 Tôi
 cứ loay hoay như con gà mắc tóc. Mẹ đã đi đường xa vất vả để về thăm tôi, tối
 phải cố gắng chăm sóc mẹ, phải cho mẹ thấy tôi đã trưởng thành và tự lo cho bản
@@ -164,7 +191,9 @@ thân mình được. Mẹ sẽ không cần phải lo chuyện gì trong nhà n
 với tôi thật lâu. Vừa rửa bát, tôi vừa huýt sáo một điệu cầu mưa, lòng mỉm cười
 hạnh phúc.
 
+
 ...
+
 
 Những
 cơn mưa vẫn chưa có dấu hiệu vơi dần. Tôi đã treo thêm chục con búp bê úp ngược
@@ -175,6 +204,7 @@ bắt đầu xì xào bàn tán. Họ nói tôi với mẹ là một cặp dễ 
 cười chứ không giải thích gì cả. Tôi cũng không nói với ai rằng đó là mẹ của
 mình. Tôi vẫn nhớ lời bố Takkun dặn hồi đó, nếu tôi lỡ miệng nói ra, người ta sẽ
 bắt mẹ quay về Tinh cầu Lưu Trữ nhất.
+
 
 “Này,
 cậu với Mio đang hẹn hò với nhau hả?”
@@ -200,10 +230,12 @@ có ai cả. Mà sao cậu hỏi thế?”
 tính, chiều nay sau giờ học, sẽ tỏ tình với Mio. Nên muốn điều tra thử coi hoa
 có chủ chưa ấy mà ...”
 
+
 Nghe
 tới đó, tự nhiên tim tôi đau nhói. Cảm giác này là sao thế nhỉ? Có lẽ vì thằng
 bạn thân của tôi lại đòi đi tỏ tình với mẹ của tôi. Mẹ Mio là của bố Takkun nhỉ.
 Và là của Yuji nữa. 
+
 
 Cuối
 giờ, mẹ Mio kêu tôi về trước. Nhưng tôi cứ lảng vảng trước cổng trường đứng đợi.
@@ -211,6 +243,7 @@ Chắc là không sao đâu nhỉ? Mẹ Mio chắc chắn sẽ từ chối thôi
 chắc sẽ không thích một đứa con nít thế đâu. Vậy sao tôi vẫn cứ thấy lo nhỉ? Tôi
 cứ bồn chồn không yên, đi qua đi lại liên tục với cái ô trên tay như một cây
 compa cứ quay tròn.
+
 
 “Này,
 Yuji chờ Mio à?”, mẹ Mio nói để tránh phiền phức chúng tôi chỉ xưng tên thôi.
@@ -227,12 +260,15 @@ không được biết ạ?”
 “Ừ.
 Nhưng đừng lo, Mio không bỏ Yuji đi đâu.”
 
+
 Mẹ
 Mio nói cứ như đọc được suy nghĩ của Yuji vậy. Mà không hiểu sao nghe được câu
 nói đó của mẹ, lòng tôi vui như mở hội còn mặt thì ửng lên. May mà trời vẫn
 đang mưa nên chắc mẹ không để ý thấy. Chứ nếu không, chắc mẹ lại trêu tôi nữa.
 
+
 ...
+
 
 Kể từ
 bữa đó tới nay, tôi lại bị chữ “người đẹp” của thằng bạn thân ám vào đầu, nên rất
@@ -244,6 +280,7 @@ mơ thấy mẹ Mio. Trong mơ, tôi và mẹ Mio cùng dạo chơi trên bãi b
 những giấc mơ của tôi về bố Takkun và mẹ Mio luôn gắn liền với những cơn mưa
 đau buồn.
 
+
 Ở
 trường chúng tôi vẫn tỏ ra vẻ bình thường. Nhưng ở nhà, chắc mẹ biết tôi thương
 mẹ nên mẹ rất hay trêu chọc tôi. Có những lần tôi đang nấu ăn, mẹ chạy đến ôm
@@ -254,7 +291,9 @@ làm nũng, muốn ăn những món hồi nhỏ hay được ăn. Mẹ Mio nấu
 nhưng sao tôi có cảm giác nó không giống vị đồ ăn của mẹ Mio hồi đó. Chắc là do
 thời gian khiến vị giác cũng trường thành theo cơ thể cao lớn này.
 
+
 ...
+
 
 “Yuji
 này?”
@@ -265,7 +304,9 @@ này, Yuji sẽ cưới một cô gái như thế nào nhỉ?”
 “Chắc
 chắn sẽ là một cô gái giống Mio rồi. Mẹ Mio là nhất\!”
 
+
 ...
+
 
 Có một
 hôm, tôi đi siêu thị về lúc mẹ Mio đang tắm. Tôi nhớ lại hồi nhỏ, mẹ Mio cũng
@@ -280,6 +321,7 @@ xinh đẹp với làn da trắng mịn và thân hình mềm mại. Đó là c�
 thanh xuân chứ không phải người đã có chồng có con và đã đặt chân tới Tinh cầu
 Lưu Trữ.
 
+
 Tôi
 cứ đứng đó như hoá đá suốt chục giây đồng hồ. Sao mẹ Mio cũng không nói gì nhỉ?
 Không biết lý trí hay con tim mách bảo, mà tôi tự động bước lùi ra khỏi phòng tắm
@@ -289,11 +331,13 @@ adrenalin. Cảm giác này là như thế nào nhỉ? Tại sao tôi không th�
 chung với mẹ Mio được? Luồng điện trong người tôi cứ chạy liên tục từ tim tới
 não, khiến tôi hoang mang không biết phải làm gì cả.
 
+
 “Yuji?”,
 mẹ Mio đã tắm xong và đang đứng trước cửa phòng tôi.
 “Dạ,
 để... để Yuji ra ... Yuji đi nấu ăn đây”, tôi ấp a ấp úng tung cửa phòng chạy
 ngay xuống bếp mà không nhìn mặt mẹ Mio.
+
 
 Suốt
 cả buổi tối hôm đó, tôi và mẹ Mio không thể nhìn thẳng vào mắt nhau. Không khí
@@ -303,6 +347,7 @@ tôi lại cư xử vậy nhỉ? Tôi phải mạnh mẽ lên như một đứa 
 Chắc mẹ buồn tôi lắm. Ngày mai lại là ngày lễ hội, không cần phải đến trường.
 Hay là tôi cứ trốn trong phòng cho tới lúc đi học lại nhỉ? Lúc ấy chắc mẹ đã hết
 giận, có khi quên hết rồi.
+
 
 “Yuji?”,
 mẹ Mio vừa gọi vừa đút một tờ giấy qua khe cửa: “Mai cùng đi xem lễ hội pháo
@@ -323,7 +368,9 @@ nào mà tôi lại có thể nói dối mẹ như vậy nhỉ?
 “Vậy
 thì ... không sao cả. Thôi Yuji ngủ đi, mai còn đi chơi với Mio.”
 
+
 ...
+
 
 Lễ hội
 pháo hoa năm nào cũng đông nghẹt người. Mio phải nắm lấy tay tôi để không bị lạc
@@ -335,13 +382,16 @@ Mio chỉ mua Takoyaki và kẹo bông gòn, rồi bỏ lên ngọn đồi phía
 giọng điệu y chang. Mà đúng là chỗ đó rất thoáng mát, ít người qua lại nên
 không khí yên tĩnh hẳn.
 
+
 “Pháo
 hoa đẹp quá\!”
 “Mio
 cũng đẹp nữa ...”
 
+
 Tôi
 không biết tôi đã nói gì sai không mà cả tôi và Mio đều đỏ mặt.
+
 
 “Yuji
 này ... Mio sắp phải đi xa một thời gian”
@@ -349,6 +399,7 @@ này ... Mio sắp phải đi xa một thời gian”
 nào Mio đi?”
 “Ngày
 mai\!”
+
 
 Câu
 nói của Mio như sét đánh ngang tai tôi.  Mio
@@ -358,6 +409,7 @@ tiên những người thân thương của tôi rời xa nơi này. Và họ v�
 tim tôi cơ mà. Sao tim tôi lại đau quá đỗi\! Có phải chăng, vì tình cảm tôi dành
 cho Mio quá lớn, nên mới phải đau như thế?
 
+
 Suốt
 dọc đường về nhà, chúng tôi không nói với nhau câu nào cả. Sự yên lặng kéo dài
 khiến tôi ngột ngạt bức bối vô cùng. Tối hôm ấy, tôi cứ nằm trằn trọc về thứ cảm
@@ -366,9 +418,11 @@ biết vậy sao? Hay là tôi nói với mẹ, hỏi mẹ về thứ tình cả
 tôi lại ỷ lại vào mẹ rồi. Chẳng phải tôi đã quyết sẽ phải sống thật mạnh mẽ kể
 cả khi không có mẹ Mio và bố Takkun ở cạnh sao? 
 
+
 Mình
 phải can đảm lên thôi. Nghĩ rồi, tôi chạy qua phòng Mio, và lần này, tôi có gõ
 cửa đàng hoàng.
+
 
 “Mio
 ơi ...”
@@ -395,6 +449,7 @@ Mio hứa sẽ quay lại, tại vì Mio ... rất thương Yuji.”
 “Yuji
 cũng ... rất rất thương Mio.”
 
+
 Mio
 nhổm người dậy và hôn nhẹ lên má của tôi, một nụ hôn hiền diệu của một người mẹ.
 Cả người nóng ran, tôi vòng tay qua cổ Mio và quay mặt lại, vô tình nhưng hữu ý
@@ -402,6 +457,7 @@ Cả người nóng ran, tôi vòng tay qua cổ Mio và quay mặt lại, vô t
 hôn đầu của thằng con trai 17 tuổi với một cô gái nó đã lầm tưởng là mẹ suốt
 hàng tháng trời. Cũng may là nó không quá ngốc và nhận ra sai lầm của mình kịp
 thời.
+
 
 “Giờ
 Yuji mới nhận ra là quá trễ rồi đấy.”
@@ -435,6 +491,7 @@ vậy, Mio nhất định phải nhớ quay về sớm nha. Không thì Yuji s�
 nắng mất.”
 “Nhất
 định mà, Mio sẽ về trong mùa nắng. Rồi mình sẽ cùng đi chơi biển nha.”
+
 
 Cả
 hai chúng tôi cùng cười hạnh phúc. Những con búp bê từ nay sẽ lại được treo thẳng

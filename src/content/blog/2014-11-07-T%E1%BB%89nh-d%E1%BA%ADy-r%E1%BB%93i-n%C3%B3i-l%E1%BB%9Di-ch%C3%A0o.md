@@ -1,106 +1,204 @@
 ---
 author: Nhi Vo
-title: Tỉnh dậy rồi nói lời chào
+title: "Tỉnh dậy rồi nói lời chào"
 publishDate: 2014-11-07
 tags:
   - Vietnamese
   - Fiction
 ---
 [
-{% include image.html url="/assets/img/posts/_Photography_girl_in_the_morning_056382_.jpg" caption="](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyz0o5qsHc_mziKa9fO_I3ijaI0-zWLcVg1Q67nMgPAuBfhyphenhyphen54wyucF4s_QClDTDs2Zm8W6edMMYBYA7UWGtbfKq_upzojzg6M3K9IGoK8Tc-3cyudYSwiwsGSgm3C3eHztgVRVYszJGde/s1600/_Photography_girl_in_the_morning_056382_.jpg)" alt="" %}
+
+![](/public/_Photography_girl_in_the_morning_056382_.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyz0o5qsHc_mziKa9fO_I3ijaI0-zWLcVg1Q67nMgPAuBfhyphenhyphen54wyucF4s_QClDTDs2Zm8W6edMMYBYA7UWGtbfKq_upzojzg6M3K9IGoK8Tc-3cyudYSwiwsGSgm3C3eHztgVRVYszJGde/s1600/_Photography_girl_in_the_morning_056382_.jpg)
+
 Những ngày đầu tháng Mười Hai, Tokyo trở lạnh đột ngột khiến mọi người đều giấu cuộc sống của mình sâu trong nhiều lớp áo ấm. Chỉ khi đã ở trong căn hộ chung cư ấm áp của mình, Karin mới dám cởi bỏ chiếc áo măng tô dày và cặp kính đen, che giấu thân hình gợi cảm và khuôn mặt khả ái của một người nổi tiếng. Đã lâu rồi cô không thoải mái dạo phố mùa Giáng Sinh mà không lo bị người hâm mộ phát hiện. Hơn 80% đàn ông ở xứ sở Mặt trời mọc này biết đến cô, không chỉ qua bộ phim Tarantella đã đạt giải ở Đông Âu mà qua cả những đoạn quảng cáo nước khoáng nhan nhản hàng ngày trên truyền hình. 
+
 Chưa kịp tắm rửa, Karin lại nhận được cuộc điện thoại của người quản lý trẻ. Natsume là một chàng trai tuyệt vời, tốt nghiệp một trường đại học danh tiếng, thông thạo ba ngoại ngữ và từng giữ cương vị giám đốc vùng Châu Á. Vậy mà anh lại xin làm quản lý cho cô với một mức lương khiêm tốn, chỉ vì người chị gái nơi phương xa đã bảo anh nên làm vậy. Bản thân Karin cũng không hiểu sao mình lại nhận Natsume vô làm. Công việc của cô bận rộn và đầy áp lực thật, nhưng cô luôn có dư dả thời gian để sắp xếp mọi chuyện đâu vô đó. Đường nào thì cô cũng có những hai mươi bốn giờ một ngày và vài phút chợp mắt ngắn ngủi. 
+
 \- Chị đã về nhà an toàn chưa? Nhớ ngủ sớm vì mai chị có lịch hẹn phỏng vấn sớm đấy.
+
 \- Chị về tới rồi. May mà có em sắp xếp lịch hẹn này nọ, chứ không chị cũng không biết mai sẽ phải đi phỏng vấn.
+
 \- Đấy là công việc của em mà. À, còn chuyện đi Paris dự tuần lễ thời trang bên đó, phía nhà tạo mẫu đang hối thúc chị trả lời để họ sắp xếp khách sạn này nọ nữa.
+
 \- Em cứ tìm cách thư thư với họ thêm ít bữa. – Karin trả lời một cách mệt mỏi. Tham dự tuần lễ thời trang Paris cũng đồng nghĩa với việc cô phải ăn kiêng một tháng để có thân hình chuẩn cần thiết cho những bộ trang phục xa xỉ ấy.
+
 \- Vâng, em biết rồi. Mai là ngày mùng 3, em sẽ mua một cây Diệp tài hồng mới mang vào bệnh viện cho chị Suzune như thường lệ.
+
 \- Cám ơn em, hay là mai em mang cây thuỷ sinh ấy tới chỗ phỏng vấn cho chị. Xong việc chị sẽ trực tiếp mang hoa vào bệnh viện luôn. Đã lâu rồi chị cũng không vào thăm chị Suzune.
+
 \- Dạ, em biết rồi. Có gì mai em sẽ gặp chị tại chỗ phỏng vấn.
+
 Cúp máy rồi, Karin tự pha cho mình một tách trà số 115 thơm mùi oải hương. Vừa nhâm nhi cô vừa cặm cụi lập trình vài thứ trên máy tính. Trên bàn còn có chừng chục cái đồng hồ báo thức khác nhau, mỗi cái được hẹn giờ cách nhau chỉ nửa tiếng. Những thứ này giữ cô không thiếp đi quá lâu, khi những viên thuốc gây hưng phấn cô uống không còn tác dụng giúp cô tỉnh táo nữa. Phải chi cô mãi là trẻ con, chỉ cần ăn đồ ngọt nhiều là có thể tràn đầy năng lượng cả đêm. Vậy thì Karin sẽ có lý do chính đáng để ăn buffet bánh ngọt hàng ngày rồi.
+
 Buổi phỏng vấn kết thúc nhanh chóng và không đọng lại chút cảm xúc nào trong Karin. Dần dần cô thấy mình như một cỗ máy được lập trình sẵn với những câu trả lời rập khuôn và vô hồn. S.O.S. Ngồi trên tàu điện ngầm đi bệnh viện, cô nguệch ngoạc ba ký tự đó vào mặt sau của cuốn truyện Đậu Phộng luôn mang theo bên mình.
+
 \- S.O.S. là cầu cứu ạ? – Natsume buột miệng hỏi.
+
 \- Ừ, là lời cầu cứu của tâm hồn của chị. Save Our Souls. – Karin đáp lại bằng một nụ cười chuyên nghiệp của diễn viên. – Cây Diệp tài hồng này đẹp quá\! Em mua ở đâu thế?
+
 \- Em mua ở một cửa hàng chuyên bán cây thuỷ sinh tên Trash ngay khu ngoại ô gần chỗ em ở \- Natsume vừa đưa chậu cây qua cho Karin vừa hồn nhiên kể \- Chủ cửa hàng ấy là một anh cũng trạc tuổi chị, rất yêu các loài cây thuỷ sinh.
+
 Tim Karin vừa nảy lên như thể cô được uống một loại thuốc gây hưng phấn cực mạnh. Cái tên Trash, rồi hình vẽ con chó nguệch ngoạc trên giấy gói chậu cây. Đúng là anh rồi\! Cuối cùng thì ước mơ của anh cũng đã thành hiện thực. Anh đã sống với đam mê của mình và trở thành ông chủ cửa hàng cây thuỷ sinh. Còn cô thì sao? Bao giờ cô mới cứu lấy được tâm hồn của mình và thực hiện ước mơ hồi mười bốn tuổi của cô.
+
 Tới bệnh viện rồi, Natsume phải chạy đi lo các thủ tục viện phí. Karin duyên dáng bước đi dọc các dãy phòng bệnh trước ánh mắt tò mò của mọi người xung quanh về sự xuất hiện của nữ diễn viên nổi tiếng ở đây. Cô cố gắng bước lẹ hơn để mau chóng chui vào phòng, vừa lúc định xoay nắm đấm cửa thì cô nghe một giọng nói thân thương vang lên sau lưng: “Ludwigia Ovalis”. Cô quay lại và thấy Satoshi đang đứng đó, dáng người mảnh khánh cao ráo và đầu tóc rồi bù. Vài giây im lặng trôi qua, và có vẻ như anh không nhận ra cô là ai. 
+
 \- Ludwigia Ovalis? \- Vừa giận vừa buồn cười, Karin quyết định giả bộ không quen biết anh.
+
 \- À, đó là tên khoa học của cây Diệp tài hồng đó. 
+
 \- Vậy à? Nghe như tên một người phụ nữ đẹp vậy.
+
 \- Cây thuỷ sinh nào cũng có một cái tên đẹp cả, như cô vậy – Anh bình thản trả lời.
+
 \- Như... tôi? – Karin lộ rõ vẻ bất ngờ. Satoshi mà cô biết không phải người có khả năng nói chuyện như thế trước mặt con gái. Hay là cô nhầm người?
+
 \- À không... ý tôi không phải vậy\! À mà cô đẹp thật... ý là... – Mặt đỏ bừng, Satoshi gãi tai phân bua. Dường như bây giờ cái đầu chậm hiểu thiếu mất vài con chip silicon của Satoshi mới nhận ra có cái gì đó không ổn trong lời mình vừa nói. Chả trách trước giờ anh khó kiếm bạn gái.
+
 \- Cám ơn anh đã quá khen. Anh là chủ cửa hàng bán cây thuỷ sinh phải không? – Karin phì cười trước điệu bộ lúng túng trẻ con của anh.
+
 \- Đúng vậy. Sao cô biết hay quá?
+
 \- Hình con chó trên áo phông của anh giống hệt logo cửa hàng in trên bao cây Diệp tài hồng này. Ai đời lại lấy hình con chó đại diện cho cửa hàng cây cảnh, lại đặt tên Trash nữa. 
+
 \- À, đúng rồi, hình con Trash, một cái tên đẹp cho những thứ tốt đẹp nhất trên đời. Duy chỉ có cái hình tôi tự vẽ thì chẳng xứng với nói gì cả. Phải chi là Yuji vẽ thì hay biết mấy.
+
 \- Yuji? – Karin vờ hỏi như không biết Yuji là ai cả.
+
 \- Yuji là bạn thuở nhỏ của tôi, và là một hoạ sĩ nổi tiếng. Cậu ấy chưa gặp thời thôi, lại lao lực mưu sinh nên giờ bất tỉnh trong phòng bệnh cả tháng nay rồi.
+
 Nghe tới đó, Karin phải bước lùi lại một bước, dựa lưng vào tường để giữ cho mình đứng vững, giữ cho cây Diệp tài hồng không rớt xuống sàn và giữ cảm xúc không trào dâng qua những dòng nước mắt đang cuộn tràn trong tim. Khả năng của một diễn viên giúp cô che giấu tất cả trước mặt Satoshi. Đúng lúc đó, có một người phụ nữ với thân hình nhỏ nhắn bước ra từ phòng bệnh của Yuji. Họ nói gì đó rồi vội vã đi. Satoshi có vẫy tay chào Karin, và cô cũng chào lại như một cái máy. Cô gái ấy thấp hơn Karin cả cái đầu nhưng lại vô cùng dễ thương với những đường cong mềm mại uốn lượn và ba nốt ruồi nhỏ trên gáy. Karin vẫn mải miết nhìn theo dáng hai người đi dọc hành lang bệnh viện, không nhận ra Natsume đã đứng bên cạnh từ bao giờ.
+
 \- Cô gái ấy dễ thương thật. Người quen của chị ạ?
+
 \- À không. Chị quen chàng trai đi bên cạnh cơ. Nhưng có vẻ như anh ta không nhận ra chị. 
+
 \- Dạ, em thì lại thấy cô gái ấy quen lắm. Hình như em đã gặp ở đâu rồi. À mà chị đọc báo sáng nay chưa? Người ta đang đồn em là bạn trai chị ấy. Báo viết rằng chúng ta rất xứng đôi. Chị có muốn em tổ chức họp báo để đính chính tin đồn này không?
+
 \- Chị không quan tâm lắm. Em cứ mặc kệ đi. Này, lát hồi em cho chị địa chỉ cửa hàng bán cây thuỷ sinh này nhé. Chị muốn ghé mua vài cây về để trong phòng.
+
 \- Dạ. Lát em sẽ vẽ sơ đồ cho chị đi. Chỗ ấy cũng nhỏ nên hơi khó tìm.
+
 Natsume vẫn là một người chu đáo và điềm tĩnh như thế ấy. Không bao giờ Natsume hỏi Karin về những việc kỳ quặc cô vẫn làm, hay những quyết định đầy ngẫu hứng của cô. Cậu ấy chấp nhận cuộc sống quanh mình như vốn dĩ và tin vào cái định mệnh vô hình. Có lẽ vì vậy, cậu vẫn đang trông chờ một cái định mệnh được chị gái mình sắp đặt trong những bức thư phương xa.
+
 Sau khi Natsume về, Karin âm thầm bước vào phòng bệnh của Yuji. Không ai có thể tin chàng thanh niên với gương mặt non trẻ đang say ngủ đi đã ba mươi tuổi. Yuji trông như kẻ đã du hành xuyên thời gian, bỏ qua tất cả giai đoạn trưởng thành từ năm mười bốn tuổi tới thẳng đây. Khắp phòng treo đầy những bức tranh về rác của cậu ấy, những bức vẽ chi tiết nhưng méo mó qua cặp kính của một kẻ bị bỏ rơi. Cô nắm chặt tay Yuji và gọi tên cậu nhiều lần trong buổi chiều hôm ấy, nhưng đôi mắt kia vẫn nhắm nghiền. Có lẽ cậu đang ở một nơi rất xa nên không thể nghe được tiếng của cô. Có lẽ Yuji đang ở cùng với chị Suzune. 
+
 Karin tới cửa hàng thuỷ sinh khi trời chập choạng tối. Cửa hàng đã treo biển đóng cửa. Có lẽ Satoshi đã đi ăn tối với cô gái hồi nãy. Cô ấy là gì của anh nhỉ? Vợ hay bạn gái? Những hồ thuỷ sinh được chiếu đèn nhấp nháy theo nhịp, phản chiếu một miền ký ức sâu thăm vốn luôn được Karin chôn giấu trong thấu kính ngũ giác cô đeo trên cổ. Vừa tính dợm bước bỏ đi, Karin thấy một người đàn ông đã ngoài bảy mươi, tóc đã bạc trắng nhưng thân hình vẫn rắn rỏi và đôi mắt tinh ranh như thanh niên mười bảy. Ông cười nói với cô thoải mái như thể họ vẫn gặp nhau hàng tuần.
+
 \- Con tìm Satoshi? Chà, không biết thằng bé này lại mải mê chơi ở cái hồ nước nào nữa. 
+
 \- Bố... Bố vẫn nhận ra con? – Karin xúc động nhớ lại ký ức về bố Satoshi, với những ly kem hoa quả ông vẫn dẫn ba đứa nhóc đi ăn sau mỗi buổi tập chạy. Đó là thứ kem hoa quả ngon nhất trên đời.
+
 \- Không\! Bố đã không thể nhận ra con. Bố nhận ra người mẫu cho quảng cáo nước khoáng trên truyền hình đi vào đây.
+
 \- Vậy sao bố biết? – Những người đàn ông trong cuộc đời Karin dường như đều có vấn đề với bộ não và trí nhớ thì phải.
+
 \- Bố tình cờ lượm được thứ này đầu ngõ. – Ông chìa ra cuốn truyện Đậu Phộng và bức hình cô cùng Satoshi vọc nước hồi còn nhỏ \- Thằng Satoshi cũng có một bức y hệt được ép nhựa treo trên bàn học.
+
 \- Vậy à... – Karin có một chút xao lòng khi nghe tới câu chuyện của hai bức ảnh song sinh. – Còn bố vẫn khoẻ chứ?
+
 \- Ta vẫn còn khoẻ, chỉ tiếc là không thể thi chạy hàng năm với lão Sakuji ấy được nữa. Chúng ta đành chuyển qua thi đấu cái khác. – Ông vừa kể vừa sôi sục khí thế quyết tâm của một chiến binh sắp ra trận. 
+
 \- Con vui quá. Không ngờ lại có thể gặp lại bố... Con nghe nói bố Yuji cũng đã qua đời cùng lúc với con Trash... – Cô bỗng nhiên không kìm nén được nước mắt trên khoé mi của mình nữa.
+
 \- Cái con bé mít ướt này. Dĩ nhiên là sẽ phải gặp lại nhau chứ. Một khi đã có cái lực, cái lực rất mạnh ấy thì dù có đi bao xa bao lâu vẫn sẽ có ngày gặp lại. Hay giờ mình đi ăn kem hoa quả đi?
+
 \- Dạ, chờ anh Satoshi về rồi mình cùng đi ăn... chờ Yuji nữa... – Không hiểu sao Karin bỗng dưng cảm thấy sợ hãi khi phải ăn kem hoa quả mà thiếu mất hai người bạn thân nhất cuộc đời mình.
+
 \- Ừm, vậy thôi đi ăn nem nướng Việt Nam nhé? Nhà hàng của anh Nguyễn gần đây cũng ngon lắm đó. – Bố Satoshi như nhìn thấu tâm can của Karin.
+
 \- Dạ. – Karin mỉm cười vui vẻ với bố Satoshi, nụ cười của đứa trẻ mười bốn chứ không phải cô diễn viên hai mươi chín tuổi.
+
 Khi họ quay trở lại cửa hàng thuỷ sinh thì Satoshi đã về và đang dọn dẹp lại góc văn phòng bừa bãi giấy tờ. 
+
 \- Ủa bố? Sao bố lại tới đây? Mai chúng ta mới ăn mì Udon mà? 
+
 \- Ta có một món quà cho anh đây – Nói rồi ông đẩy Karin tới trước mặt Satoshi với cái lực đẩy hơi mạnh so với tuổi của ông.
+
 \- Chào cậu\! – Lời chào sau bao năm xa cách bỗng thân thương quá đỗi.
+
 \- Chào cậu\! A, cô gái hồi chiều ở bệnh viện. – Satoshi hơi ngạc nhiên khi thấy Karin. Nhưng không hiểu sao anh thấy cô thân quen lắm. Giờ đây trong cửa hàng chỉ còn sáng dăm ba cái đèn màu, thấu kính ngũ giác trên ngực Karin phản chiếu ánh sáng vào thẳng mắt anh, vào phần ký ức đi hoang đã lâu của Satoshi.
+
 \- Satoshi, anh không nhận ra Karin à? – Bố anh có vẻ sốt ruột trước sự chậm hiểu của con trai mình. Gì chứ người yêu đầu tiên, người mà ngày nào anh cũng ngắm qua bức hình nơi bàn học, mà gặp lại cũng không nhận ra, thì con trai ông quả là thiên tài.
+
 \- Karin\! – Satoshi như bị khoá miệng lại, chẳng biết nói gì, y như lần đầu họ hôn nhau nơi sân ga.
+
 \- Anh Satoshi vẫn khoẻ chứ? Mãi bây giờ anh mới nhận ra em là quá trễ đấy. Em giận anh suốt chiều giờ. – Karin vẫn giữ thói trêu chọc Satoshi như vậy.
+
 \- Anh đúng là không tài nào nhận ra em. Hồi đó em để tóc ngắn, mặc cái áo khoác quân đội rộng thùng thình nữa. Ai ngờ được em lại trở thành một phụ nữ đẹp như thế này?
+
 \- Anh cũng dẻo miệng thật ấy. Khá hơn anh hồi đó. Hèn chi anh có bạn gái xinh thế.
+
 \- Anh chỉ nói những gì anh nghĩ thôi. – Satoshi bắt đầu đỏ mặt.
+
 \- Anh đã có bạn gái rồi à? Sao ta không được biết? – Bố Satoshi háo hức trước thông tin Karin vừa buột miệng nói ra.
+
 \- Dạ, con quen cô ấy mới hai tháng thông qua một chương trình mai mối trên mạng. Nhưng hôm nay cô ấy đã chia tay con rồi.
+
 \- Chia tay? – Cả Karin và bố Satoshi đều đồng thanh thốt lên.
+
 \- Cô ấy qua Pháp để học về các loại hương liệu mới rồi. Mà cô ấy không đi thì chắc chuyện của chúng con cũng chẳng thành. Tại cả hai chỉ là người mình yêu thứ nhì thôi.
+
 \- Vậy ai là người anh yêu nhất?
+
 Cả Satoshi lẫn Karin đều đỏ bừng tới mang tai. Bố Satoshi nhận ra câu hỏi của mình đã tạo ra bầu không khí phù hợp, nên ông lẳng lặng biến mất khỏi cửa hàng. Ai mà tin được ông già tinh ranh ấy đã bảy mươi chứ. Chắc ông vẫn mãi mãi tuổi mười bảy. 
+
 \- Anh Satoshi vẫn không thay đổi mấy nhỉ? – Karin chủ động phá vỡ sự im lặng.
+
 \- Còn Karin thì thay đổi nhiều quá, đến mức anh không nhận ra nữa.
+
 \- Là do anh dở thôi. 
+
 \- Ừ, anh dở thật. Sao lại có thể quên người bạn thân nhất trên đời chứ. Trái đất đúng là tròn nhỉ. Anh không ngờ sẽ có dịp gặp lại em. Chắc anh phải cám ơn Yuji đã cho chúng ta cơ hội chạm mặt nhau trong bệnh viện.
+
 \- Bộ ba chúng ta nhất định sẽ tái hợp mà. Bố anh đã nói em nghe về cái lực kéo con người ta lại với nhau. Kể cả em không làm người mẫu, anh không làm chủ cửa hàng thuỷ sinh và Yuji không hôn mê trong bệnh viện, chúng ta vẫn sẽ tìm thấy nhau, bất kể đã đi bao xa và bao lâu đi chăng nữa. 
+
 \- Ừ, nếu anh làm một nhân viên quèn, em là một kỹ sư máy tính, Yuji không bất tỉnh thì làm việc quá sức, chúng ta vẫn sẽ gặp nhau tại triển lãm tranh của Yuji. – Nói rồi, Satoshi đưa cho Karin coi tấm poster về triển lãm tranh của Yuji tại Bảo tàng Tokyo đúng vào dịp Giáng Sinh này. Chủ đề triển lãm là về những kẻ bị bỏ rơi.
+
 \-
+
 Không khí bỗng nhiên lại chùng xuống khi cả Satoshi và Karin đều đang nghĩ về Yuji. Chính Yuji đã biến cả hai thành bạn khi cìb nhỏ, và giờ chính Yuji là người dẫn lối cho họ tìm lại nhau khi đã lớn. Đêm hôm ấy, trên căn gác của cửa hàng thuỷ sinh, họ đã trao nhau nụ hôn thứ hai, không còn gượng gạo và ngại ngùng như tuổi mười bốn nữa. Chiếc giường đơn bình thường vốn khá chật hẹp với khổ người của Satoshi, bỗng nhiên hôm nay lại vừa vặn và ấm cúng vô cùng trong đôi vòng tay của Karin.
+
 Trời vẫn còn nhá nhem tối và se lạnh, Satoshi đã nghe tiếng lục cục dưới cửa hàng. Anh vừa xuống dưới chân cầu thang thì đã nghe tiếng Karin nói chuyện điện thoại với giọng thì thầm nhưng rõ ràng: “Natsume hả? Chị cần phải đi xa một thời gian. Em huỷ hết lịch làm việc của chị và gửi thông cáo báo chí nói chị đang bị bệnh... Chị cũng nghĩ là mình chấm dứt sự nghiệp tại đây là được rồi. Chị cần hạnh phúc, và đã tìm được. Lần này chị sẽ không bỏ rơi nó đâu. Nên em cũng ráng đi tìm và giữ hạnh phúc cho riêng mình đi, đừng mải làm theo lời chị gái em viết trong thư nữa... À mà vụ Tuần lễ thời trang Paris ấy, hay là em qua đó làm người mẫu đi? Em cao ráo, đẹp trai, lại giỏi ngoại ngữ, biết đâu được, định mệnh đang chờ em ở Paris?”. Đáp lại lời Karin ở đầu dây bên kia chỉ là những tiếng dạ vâng. Natsume thật biết nghe lời phụ nữ lớn tuổi hơn. Cậu ấy nhất định sẽ có cuộc sống hạnh phúc.
+
 Vừa dợm bước quay lại cầu thang, Karin đã thấy Satoshi chờ sẵn. Cô nhoẻn miệng cười hồn nhiên trước vẻ mặt của anh. Cô biết câu hỏi đang mấp mé trên bờ môi kia, và cũng đã sẵn sàng cho anh câu trả lời. Thế là trước lúc mặt trời mọc lên đằng đông, Satoshi đã được nghe tất cả về bệnh ngủ rũ của cô và chị Suzune, về cách cô vặn báo thức mỗi ba mươi phút để trói mình với thực tại và về quyết định của cô sẽ chìm sâu vào giấc ngủ để đi tìm Yuji, tìm chị Suzune.
+
 “Hồi đó em còn quá nhỏ, nên em đã sợ hãi khi chị Suzune chọn ở lại trong mơ chứ không trở về cùng mình. Em đã nhiều lần muốn đi tìm chị ấy, nhưng em lại lo mình bị kẹt trong giấc mơ đó và không được gặp lại anh Satoshi nữa. Em đã được gặp anh, được thấy ước mơ về một cửa hàng cây thuỷ sinh của anh thành hiện thực. Em thật sự rất vui và rất hạnh phúc. Nhưng giờ là lúc em thực hiện lời hứa của mình, thực hiện ước mơ của mình. Em sẽ tìm Yuji và chị của em để mọi người lại được ở bên nhau, cùng nhau đi ăn kem hoa quả. Em phải cứu lấy tâm hồn của mình còn say ngủ trong giấc mơ đó. Em phải tỉnh dậy hoàn toàn rồi mới có thể nói lời chào với anh Satoshi được.”
+
 “Anh sẽ chờ em. Vì em là người anh yêu nhất. Vì anh chỉ hợp với thứ tình cảm đơn giản tuổi mười bốn. Nên em nhất định phải trở lại nhé\!”. Đó là những lời cuối cùng Karin nghe từ miệng Satoshi trước khi cô chìm vào giấc ngủ say trên căn gác cửa hàng. Trong tích tắc đó, một giọt nước mắt đã trào ra khỏi khoé mi của cô trước khi nó khép hẳn lại. Đó không phải là nước mắt sợ hãi hay đau buồn, mà là nước mắt của yêu thương đong đầy qua bao năm tháng. Cô nhất định sẽ trở lại.
+
 ...
+
 Những ngày cuối tháng Mười Hai, đường phố Tokyo lại trở nên lung linh với triệu ánh đèn Giáng Sinh. Bức tượng con Trash trong Bảo tàng Mỹ Thuật Tokyo cũng lung linh không kém khi được cột lên người hàng chục viên bi ve nhỏ phản chiếu muôn vàn sắc màu. Nó là điểm sáng nhất trong buổi triển lãm, điều quý giá nhất trong cuộc đời của họ, “Những kẻ bị bỏ rơi”. Satoshi và Karin là những người cuối cùng rời khỏi triển lãm khi bảo tàng đóng cửa. Bố Satoshi đã chờ sẵn bên ngoài và họ cùng nhau đi ăn kem hoa quả. Cả ba người đều cảm thấy mãn nguyện khi triển lãm diễn ra suôn sẻ, kể cả khi hoạ sĩ lừng danh Yuji đã không thể có mặt. Ngày mai, người ta sẽ rút ống thở của cả Yuji và Suzune, chấm dứt cuộc sống thực vật như những cây thuỷ sinh theo nguyện vọng của cả hai người đã nói với Karin trong mơ.
+
 Đêm Giáng Sinh an lành đó, Karin, trong vòng tay ấm áp của Satoshi, lại một lần nữa gặp lại Yuji và chị Suzune ở thể giới trong mơ. Thế giới đó không đầy hương hoa tươi đẹp như trí nhớ của cô bé mười tuổi. Đó là một cái đầm nhỏ với nhiều loại cây thuỷ sinh khác nhau cùng một núi rác khổng lồ.
+
 \- Chào Karin\! – Cả Yuji và Suzune đồng thanh gọi.
+
 \- Huýt\! – Con Trash nhanh nhẹn chạy tới quấn lấy chân Karin, mặc đống rác bám trên người mình.
+
 \- Hai người tỉnh dậy rồi nói lời chào. Ngày mai em và Satoshi sẽ đến bệnh viện sớm để làm thủ tục rút ống thở và hoả táng. – Karin nói với giọng run run cố kìm nén.
+
 \- Hai người đã vất vả nhiều rồi. – Chị Suzune vẫn là cô gái hiền diệu nhất trên đời này.
+
 \- Chị với Yuzi thật là... tại sao hai người không thể quay về cùng em? 
+
 \- Cậu có tin cái gọi là định mệnh không, Karin? – Yuzi vẫn nói bằng cái giọng vô cùng điềm tĩnh của mình – Hồi tớ chưa biết cậu, tớ đã có một giấc mơ rằng mình bị lạc, và trong mơ đã có một thiên thần dẫn lối cho tớ về nhà. Gặp cậu rồi, tớ cứ tưởng thiên thần ấy là cậu và đã đem lòng yêu cậu. Chỉ mãi tới một tháng trước, tớ có dịp quay lại thế giới trong mơ và gặp thiên thần đã cứu rỗi linh hồn tớ ngày ấy. Đó chính là chị Suzune. Định mệnh đã sắp đặt cho tớ và chị Suzune đến với nhau như thế đấy.
+
 \- Thì sao chứ? Hai người vẫn có thể tỉnh dậy và kết hôn với nhau cơ mà. Tớ và Satoshi sẽ ủng hộ hai người hết mình.
+
 \- Bọn tớ đã gặp nhau trong mơ và quyết định sẽ ở lại trong thế giới này, thế giới mà bọn tớ không phải là những kẻ bị bỏ rơi bởi những người lớn vô tâm nữa. – Yuji có thoáng đượm buồn khi nhắc tới mẹ mình.
+
 \- Và giờ hai người bỏ rơi em và Satoshi?
+
 \- Hồi đó em còn quá nhỏ nên không nhận ra. Lúc ba mẹ chia tay, chị đã quá đau buồn nên mới quyết định trốn vào thế giới trong mơ này. Chị không mạnh mẽ như em để có thể đối mặt với thực tại và chống cự căn bệnh ngủ rũ. Ở đây chị có hạnh phúc của chị với Yuji, và Trash nữa.
+
 \- Huýt\! – Con Trash được nghe nhắc đến tên lại kêu lên.
+
 \- Và thế là hai người bỏ cuộc? Như những đứa trẻ ích kỷ hoài không lớn mãi trốn trong cái thùng carton bị vứt đi ư? Trong khi đó, em đã phải mệt mỏi thế nào với hơn chục tiếng chuông bào thức hằng đêm chị biết không? Tất cả là vì em cần phải sống ở thực tại để lo cho chị, cho Yuji và cho Satoshi. Vậy mà hai người chỉ biết nghĩ tới thứ hạnh phúc ảo tưởng trong mơ này thôi.
+
 \- Không phải như vậy... – Yuji yếu ớt đáp lời.
+
 \- Hai người chính là như vậy đấy. Chị không biết ba mẹ đã đau buồn rồi qua đời bên giường bệnh của chị ra sao đâu. Còn cậu không nhớ con Trash đã có sức sống mạnh mẽ như thế nào sao? Kể cả bị thương tích nặng, nó vẫn ráng sống tiếp với cậu, tới lúc cậu đủ mười tám tuổi mới yên lòng ra đi. Vậy mà giờ cậu lại muốn trở lại đây, trông chờ vào sự bảo vệ của con Trash sao? Cuộc sống dù khó khăn cỡ nào cũng không được bỏ cuộc như vậy chứ. Hai người không thấy chán sự vĩnh hằng ở đây sao? Hai người có biết rằng đã bỏ lỡ mất bao nhiêu điều kỳ diệu của cuộc sống ngoài kia không? Như chuyện bố Satoshi vẫn giữ kỷ lục chạy 400m. Như chuyện chàng quản lý cũ của tớ tìm lại được được tình yêu ở nước Pháp xa xôi. Hay chuyện tình kéo dài hơn mười lăm năm của Satoshi. Và kể cả chuyện của cậu và chị Suzune nữa. Đó là cả một câu chuyện cổ tích của nàng công chúa ngủ trong rừng và đại danh hoạ ấy. Và hai người định sẽ kết thúc câu chuyện đẹp này trong lò hoả táng ư? Có thích mơ thì cũng phải mơ khi đang tỉnh chứ?
+
 Bực tức rời bỏ giấc mơ trở về trong vòng tay Satoshi vào sáng sớm, cô bật khóc ngon lành như một đứa con nít. Satoshi cũng khóc. Ừ thì nỗi đau mất đi những người thân thương nhất của mình luôn chỉ có thể diễn tả bằng nước mắt mà thôi. Mang hai cặp mắt đỏ hoe, cả hai cùng nhau đi tới bệnh viện theo lịch hẹn với bác sĩ. Cuộc sống với muôn điều kỳ diệu đã được Chúa trời ban phát thêm chút hạnh phúc thừa mứa của mình, khi ngồi chờ họ trên giường bệnh là chị Suzune và Yuji. “Chào\!”. Cả hai đã hoàn toàn tỉnh giấc và khoẻ mạnh. “Chỉ một tiếng chào thôi à?”, Karin vẫn còn giận. “Bọn chị biết lỗi rồi. Giờ thì phải sống tiếp để chuộc tội cho những năm tháng thanh xuân đã đánh mất khi không thể ở cùng nhau nha”. Thế là họ đã quyết định rời bỏ giấc mơ, trở lại với thực tại để thực hiện những ước mơ cùng những người bạn thơ ấu. Nghe văng vẳng trong gió có một tiếng “Huýt”.
+

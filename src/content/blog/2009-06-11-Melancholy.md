@@ -1,6 +1,6 @@
 ---
 author: Nhi Vo
-title: Melancholy
+title: "Melancholy"
 publishDate: 2009-06-11
 tags:
   - Vietnamese
@@ -9,11 +9,15 @@ tags:
   - Personal
 ---
 [
-{% include image.html url="/assets/img/posts/img_2575.jpg" caption="](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWeWIr9rPaQUgxfKARW-Pd54DsaM7HrTKCD2WpodMBdoRrWA16MIEtpZhTGudtD7dvowosDajcLgFnwcb2i5IwFHrpaLw0Y3FEBjdmHpDbwWiIts10jDHUqQFhGa86pjyzIENxmE3D_L9/s1600/img_2575.jpg)" alt="" %}
+
+![](/public/img_2575.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWeWIr9rPaQUgxfKARW-Pd54DsaM7HrTKCD2WpodMBdoRrWA16MIEtpZhTGudtD7dvowosDajcLgFnwcb2i5IwFHrpaLw0Y3FEBjdmHpDbwWiIts10jDHUqQFhGa86pjyzIENxmE3D_L9/s1600/img_2575.jpg)
+
 Muốn bỏ trốn 1 thời gian, bay theo 1 con bướm đêm nào đó ....
 Nhưng vẫn bị sợi dây ràng buột ấy níu giữ ... mong manh nhưng ko dứt bao giờ
 
+
 \-\-\-
+
 
 Mộng hồ điệp chấp cánh phù du
 Mơ tiên sa lạc bước hão huyền
@@ -46,5 +50,6 @@ Tóc rụng hàng hàng vẫn cài nhánh hoa tươi
 Văng vẳng tiếng cười trong buốt giá
 Hững hờ buông tiếng cầm ca
 Vui quá xá 
+
 
 \- Điên không biên giới \-

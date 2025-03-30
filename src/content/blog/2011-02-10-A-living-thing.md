@@ -1,6 +1,6 @@
 ---
 author: Nhi Vo
-title: A living thing
+title: "A living thing"
 publishDate: 2011-02-10
 tags:
   - English
@@ -8,7 +8,9 @@ tags:
   - Personal
 ---
 [
-{% include image.html url="/assets/img/posts/Lupe-Fiasco-Lasers.jpg" caption="](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJK6AzCjgeK9Zaw8wwl0whSLsXI2E281V5A52R_3L8wReeRTl0a8WKDt8o91s8gzAPini0KzgfGKDP_V005XLBzql4YrkWbZXwoXU2lJZQd4lOfvpmDXDkyNx85cJivQQBgwdt53RhoVIP/s1600/Lupe-Fiasco-Lasers.jpg)" alt="" %}
+
+![](/public/Lupe-Fiasco-Lasers.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJK6AzCjgeK9Zaw8wwl0whSLsXI2E281V5A52R_3L8wReeRTl0a8WKDt8o91s8gzAPini0KzgfGKDP_V005XLBzql4YrkWbZXwoXU2lJZQd4lOfvpmDXDkyNx85cJivQQBgwdt53RhoVIP/s1600/Lupe-Fiasco-Lasers.jpg)
+
 I am just a living thing.
 I think so I am \(Je pense donc je suis\)
 Never mind to close my eyes

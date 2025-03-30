@@ -1,29 +1,74 @@
 ---
 author: Nhi Vo
-title: The Experiment |2|
+title: "The Experiment |2|"
 publishDate: 2015-11-12
 tags:
   - English
   - Fiction
 ---
 [
-{% include image.html url="/src/public/fetched_images/file1701347712205.jpg" caption="*" alt="" %}
-**Author notes**** ***
+
+![](/public/file1701347712205.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8-phQQNAjxcu0MXCIGZ6vURITJaFs_5ewqa8h0qNsQLkJGpEiSNeKLKlJcGcQ1ZZE3cjMN8CzDyYdkpCuGr5xmGST7Qs45dTaReRfs8IgHJ6WooBSaT_B2Y__8cbLPF5DDl-ZxpVJ-lJn/s1600/file1701347712205.jpg)
+
+*
+
+*
+
+*Author notes**** ***
+
 1. Tính chờ 59 ngày sau mới viết tiếp, cơ mà sáng nay nghĩ ra cốt truyện tiếp theo, viết luôn kẻo 59 ngày sau lại quên mất.
 2. Thôi bữa nay không lảm nhảm vậy, vô đề luôn cho nó khoẻ.
 
-***The Experiment****
-**What is the odd of two prime numbers be in the same function? Very likely if they are small enough.**What is the odd of two lovers be in the same room? Very likely if they really want to.**
-**07:07 AM \- 24/11**
-*It had been 11 days from the first time he met her. He decided to forget about her and their strange conversation. He was not the type of person to worry about such nonsense. Whether they meet again on day 59 or not could not have any impact whatsoever to his life. He continued to walk his path as if nothing ever happened. When he least expected it, she appeared in front of his eyes, on the front page of the Monthly Science Journal. She had found a method to help autism children communicate better. It looked like she was not a fraud or scam after all. Why would she do anything like this ridiculous study at all? Moreover, she had put all her credibility on a risky bet with him. Now it no longer be something he could take for granted. It was a game that he was not allowed to lose. 
-*11:11 PM \- 24/12**
-*It was almost midnight on the Christmas Eve, and he was still working on the new app. The main street right below his office building had already been crowded by people, It would be hard to find a way out of that thick sea of lovers holding hands, hugging and embracing each other. He really missed the Christmas Eve a couple years ago when he was abroad, just a quiet holy night with empty streets where he could enjoy his walk alone. He had never been on good terms with people. Unlike computers, those complicated living things were impossible to understand fully and difficult to troubleshoot without a standard protocol. He was always better off with machines and numbers, so he figured out a code for his life in which he had known all the possible outcomes under any circumstances. He had a script for conversations from formal to informal occasions, covering most topics possible. Social sciences was, unfortunately, not one of them, as he never thought about discussing such subject with anyone, especially a girl. Had he made a terrible mistake going to the Speed Dating event 41 days ago, which could possibly lead to a butterfly effect and change his life for goods? 
+***The Experiment***
+
+*
+
+*
+
+*What is the odd of two prime numbers be in the same function? Very likely if they are small enough.*
+
+*What is the odd of two lovers be in the same room? Very likely if they really want to.*
+
+*
+
+*
+
+*07:07 AM \- 24/11*
+
+*
+
+*
+
+It had been 11 days from the first time he met her. He decided to forget about her and their strange conversation. He was not the type of person to worry about such nonsense. Whether they meet again on day 59 or not could not have any impact whatsoever to his life. He continued to walk his path as if nothing ever happened. When he least expected it, she appeared in front of his eyes, on the front page of the Monthly Science Journal. She had found a method to help autism children communicate better. It looked like she was not a fraud or scam after all. Why would she do anything like this ridiculous study at all? Moreover, she had put all her credibility on a risky bet with him. Now it no longer be something he could take for granted. It was a game that he was not allowed to lose. 
+
+*11:11 PM \- 24/12*
+
+*
+
+*
+
+It was almost midnight on the Christmas Eve, and he was still working on the new app. The main street right below his office building had already been crowded by people, It would be hard to find a way out of that thick sea of lovers holding hands, hugging and embracing each other. He really missed the Christmas Eve a couple years ago when he was abroad, just a quiet holy night with empty streets where he could enjoy his walk alone. He had never been on good terms with people. Unlike computers, those complicated living things were impossible to understand fully and difficult to troubleshoot without a standard protocol. He was always better off with machines and numbers, so he figured out a code for his life in which he had known all the possible outcomes under any circumstances. He had a script for conversations from formal to informal occasions, covering most topics possible. Social sciences was, unfortunately, not one of them, as he never thought about discussing such subject with anyone, especially a girl. Had he made a terrible mistake going to the Speed Dating event 41 days ago, which could possibly lead to a butterfly effect and change his life for goods? 
+
 For the past month, he had done all he could to prepare for all the prospective situations. He searched for her both online and offline, from professional aspect to personal life. Now he knew everything about her. Her university was just one block away from his office. He always ordered lunch delivery, and she always ate at that small coffee shop. She had lectures when he did not wake up, and he left the office when she had gone to bed. He lived in an apartment in another building nearby his office, and she lived on a house at the other side of the town across the river. Both of them had no friend and rarely went out during the weekends. So they literally had an almost zero chance of bumping into each other on the road. It should be an easy win for him. Then why did he still feel so anxious? What if he overlook something so obvious? It must be. She was so confident, What made her so confident?
-*01:01 AM \- 11/01**
-*Finally day 59 had come. He had planned carefully to make the improbable impossible. If he would not leave his apartment, she could never meet him again that day. Therefore, he asked for sick leave today. He stocked his refrigerator with enough food for the whole week. He prepaid all the bills so nobody would ring the doorbell. He turned off his TV, computer and mobile phone. If there was no connection between him and the world, there would be no opportunity for her to trick him into a second encounter. All he need to do was sat still, relaxed and waited for the day to end. He could also sleep for 24 hours straight. Then nothing could happen. 
-*11:11 AM \- 11/01**
-*He woke up around noon. Looking at the clock hand slowly tick around, he was not sure what to do anymore. Should he just go back to sleep until midnight? He was just half a day away from winning, but why did he feel so defeated? He used be rational and pay no attention to silly social sciences stuff. Now he had to lock himself at home just to win that girl. Why did he behave in such a ridiculous way? There was no glory in winning this anymore, if he did not follow his daily routine and hide like a coward. 
+
+*01:01 AM \- 11/01*
+
+*
+
+*
+
+Finally day 59 had come. He had planned carefully to make the improbable impossible. If he would not leave his apartment, she could never meet him again that day. Therefore, he asked for sick leave today. He stocked his refrigerator with enough food for the whole week. He prepaid all the bills so nobody would ring the doorbell. He turned off his TV, computer and mobile phone. If there was no connection between him and the world, there would be no opportunity for her to trick him into a second encounter. All he need to do was sat still, relaxed and waited for the day to end. He could also sleep for 24 hours straight. Then nothing could happen. 
+
+*11:11 AM \- 11/01*
+
+*
+
+*
+
+He woke up around noon. Looking at the clock hand slowly tick around, he was not sure what to do anymore. Should he just go back to sleep until midnight? He was just half a day away from winning, but why did he feel so defeated? He used be rational and pay no attention to silly social sciences stuff. Now he had to lock himself at home just to win that girl. Why did he behave in such a ridiculous way? There was no glory in winning this anymore, if he did not follow his daily routine and hide like a coward. 
+
 Suddenly, the fire alarm went off. The building bodyguards knocked on every door and asked people, including him, to leave. The whole building was evacuated for an emergency fire drill. Within a blink of the eyes, he was standing on the street, clueless about what else he could do now. The next thing he knew, he walked up to the coffee shop around the corner. Life was full of unexpectancies. Only a few minutes later, she entered the same coffee shop, sat down in front of him.
+
 * Hi again. \- She smiled, or is that an evil grin?
 * Hi again. You won.
 * Wanna have lunch with me? My treat.
@@ -77,5 +122,7 @@ Suddenly, the fire alarm went off. The building bodyguards knocked on every door
 * No, even worse. You will eventually falling in love with me\!
 
 She smiled and walked away, leaving him absolutely puzzled. 
+
 ———————————
+
 ***To be continued … \(in a long long while\)***

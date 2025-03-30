@@ -1,13 +1,15 @@
 ---
 author: Nhi Vo
-title: Chasing wings
+title: "Chasing wings"
 publishDate: 2009-06-29
 tags:
   - English
   - Poem
 ---
 [
-{% include image.html url="/assets/img/posts/pursuit_of_happiness_by_aquasixio-d5tx8jw.jpg" caption="](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK60mo9kAHMX2mKzUua7FXeI8fmir5ZRoidVyjhrHNDigyx1h79iPPdS9xJiaSAQ_d5tuWdNXj6hvbU5K7fQM6QrSS6bNazqgWxElRhM65RrFR04J1ec88PC5QeYN_iEkGwzoZhwbOGEf8/s1600/pursuit_of_happiness_by_aquasixio-d5tx8jw.jpg)" alt="" %}
+
+![](/public/pursuit_of_happiness_by_aquasixio-d5tx8jw.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK60mo9kAHMX2mKzUua7FXeI8fmir5ZRoidVyjhrHNDigyx1h79iPPdS9xJiaSAQ_d5tuWdNXj6hvbU5K7fQM6QrSS6bNazqgWxElRhM65RrFR04J1ec88PC5QeYN_iEkGwzoZhwbOGEf8/s1600/pursuit_of_happiness_by_aquasixio-d5tx8jw.jpg)
+
 The open sky
 No road no path and no line
 With wings to fly
@@ -15,11 +17,13 @@ Any place any high
 Freely
 As long as you might
 
+
 \_ Angel, oh my beloved Angel
 Where will you head?
 Where would you go?
 When cloud is dead?
 When wind is slow?
+
 
 \_ Little pixie, my little dear
 I’m in a rush
@@ -28,6 +32,7 @@ Words from the seers
 There would be 
 And there will be chaos with tears 
 Demon is near and all is feared
+
 
 \_ Angel, oh my good Angel
 What should I do?
@@ -38,6 +43,7 @@ Redeem the sin
 Please take my wings
 Please take my will
 For you and for real
+
 
 \_ Little pixie, my little honey
 You are so sweet and so naïve
@@ -50,6 +56,7 @@ Come praying with me, little pixie
 For all the minds to be at ease
 For all the souls to rest in peace
 For what will be
+
 
 \_ Angel, oh my kind Angel
 Do you realize, don’t you realize?
@@ -64,6 +71,7 @@ What did you do?
 From now and on you have no wing
 From now and on you become him
 
+
 \_ Little pixie, my little darling
 I’m in a crush
 Did you not see?
@@ -75,6 +83,7 @@ So it’s okay to be this way
 From now and on no longer may
 A good indeed be harmed in deep
 
+
 \_ Angel, oh my my 
 From now and on you are demon
 What should I call?
@@ -85,6 +94,7 @@ I could not comprehend
 Why did so, why did those?
 Tell me demon what I should have known
 
+
 \_ Little pixie, my little love
 That is a guilt you shall not know
 The why is harsh as the crash is crap
@@ -92,6 +102,7 @@ Wanting to know
 Find out yourself
 See that baby, kill her for me\!
 The answer is let it be
+
 
 \_ Demon, oh my my demon
 I did what be told 
@@ -101,6 +112,7 @@ But where are my wings and where is my dress
 Why on the ground stand both my feet
 What should I do?
 What did I do?
+
 
 \_ Little human, my little one
 What goes around has come around
@@ -113,7 +125,9 @@ Finish you off and rot away
 First act as a demon and last as an angel
 For me to completely be him.
 
+
 Farewell pixie, my little pixie
+
 
 The open sky
 No road no path and no line
