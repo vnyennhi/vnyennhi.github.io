@@ -100,7 +100,7 @@ const siteConfig: SiteConfig = {
         text: "I'm **Nhi Vo**, a data science and analytics leader with a Ph.D. and a deep love for all things data — especially the messy, complicated kind. I thrive on optimizing algorithms, designing scalable analytics systems, and making sense of chaos with machine learning and statistical models. My expertise spans machine learning, statistical modeling, and large-scale data analysis, enabling teams to make informed, data-driven decisions. I have a passion for sharing knowledge and insights, and I believe in the power of collaboration to drive innovation. I am committed to continuous learning and growth, and I am always looking for new challenges and opportunities to expand my skill set. Feel free to reach out if you want to connect or collaborate on a project. Let's make data work for us!",
         image: {
             src: '/profile.jpg',
-            alt: 'A person sitting at a desk in front of a computer'
+            alt: 'My carricature',
         },
         actions: [
             {
