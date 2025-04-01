@@ -109,11 +109,11 @@ const siteConfig: SiteConfig = {
             }
         ]
     },
-    subscribe: {
-        title: 'Subscribe to My Newsletter',
-        text: 'One update per month. All the latest posts directly in your inbox.',
-        formUrl: '#'
-    },
+    // subscribe: {
+    //     title: 'Subscribe to My Newsletter',
+    //     text: 'One update per month. All the latest posts directly in your inbox.',
+    //     formUrl: '#'
+    // },
     postsPerPage: 8,
     projectsPerPage: 8
 };
