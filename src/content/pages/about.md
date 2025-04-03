@@ -12,7 +12,7 @@ seo:
 
 <div class="flex flex-col sm:flex-row sm:gap-8 items-start">
   <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-  <div class="sm:w-1/3 badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nhi-vo" data-version="v1">
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nhi-vo" data-version="v1">
     <a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/nhi-vo?trk=profile-badge">Nhi Vo</a>
   </div>
   <div class="sm:w-2/3">
