@@ -7,7 +7,6 @@ seo:
     src: '/profile.jpg'
     alt: Profile photo
 ---
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ## Nhi Vo, Ph.D. - Data Science and Analytics Leader
 
