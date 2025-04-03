@@ -8,8 +8,6 @@ import Nav from '../components/Nav.astro';
 export type Props = HeadProps & { showHeader?: boolean };
 
 const { showHeader = true, ...head } = Astro.props;
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>;
 ---
 
 <!doctype html>
@@ -21,6 +19,7 @@ const { showHeader = true, ...head } = Astro.props;
                 document.documentElement.classList.add('dark');
             }
         </script>
+        <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>;
         <ClientRouter />
     </head>
     <body class="bg-main text-main">
