@@ -1,19 +1,22 @@
 import LinkedInBadge from '../../components/LinkedInBadge.astro';
 
 ---
-title: "About" # Ensure the title is properly defined as a string
+title: "About"
 seo:
   title: "About Me"
   description: "Learn more about the person behind this beautiful life."
   image:
     src: "/profile.jpg"
     alt: "Profile photo"
+draft: false
 ---
 
 ## Nhi Vo, Ph.D. - Data Science and Analytics Leader
 
 <div class="flex flex-col sm:flex-row sm:gap-8 items-start">
-  <LinkedInBadge client:load />
+  <div client:load>
+    <LinkedInBadge />
+  </div>
   <div class="sm:w-2/3">
     Welcome to My Corner of Code, Curation and Curiosity!
     I'm Nhi Vo, a data science and analytics leader with a Ph.D. and a deep love for all things data — especially the messy, complicated kind. I thrive on optimizing algorithms, designing scalable analytics systems, and making sense of chaos with machine learning and statistical models. My expertise spans machine learning, statistical modeling, and large-scale data analysis, enabling teams to make informed, data-driven decisions. I have a passion for sharing knowledge and insights, and I believe in the power of collaboration to drive innovation. Feel free to reach out if you want to connect or collaborate.
