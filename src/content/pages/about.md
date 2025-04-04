@@ -1,13 +1,13 @@
 import LinkedInBadge from '../../components/LinkedInBadge.astro';
 
 ---
-title: About
+title: "About" # Ensure the title is properly defined as a string
 seo:
-  title: About Me
-  description: Learn more about the person behind this beautiful life.
+  title: "About Me"
+  description: "Learn more about the person behind this beautiful life."
   image:
-    src: '/profile.jpg'
-    alt: Profile photo
+    src: "/profile.jpg"
+    alt: "Profile photo"
 ---
 
 ## Nhi Vo, Ph.D. - Data Science and Analytics Leader
