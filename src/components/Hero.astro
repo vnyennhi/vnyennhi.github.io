@@ -2,7 +2,6 @@
 import { marked } from 'marked';
 import Button from './Button.astro';
 import siteConfig from '../data/site-config';
-import LinkedInBadge from './LinkedInBadge.astro';
 
 const hero = siteConfig.hero;
 ---
@@ -14,19 +13,8 @@ const hero = siteConfig.hero;
             <div class="flex flex-col sm:flex-row sm:gap-8">
                 {hero.image?.src && (
                     <figure class="sm:w-1/2">
-                        <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript" />
-                        <div
-                            class="badge-base LI-profile-badge"
-                            data-locale="en_US"
-                            data-size="large"
-                            data-theme="dark"
-                            data-type="VERTICAL"
-                            data-vanity="nhi-vo"
-                            data-version="v1"
-                        >
-                            <a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/nhi-vo?trk=profile-badge">
-                                Nhi Vo
-                            </a>
+                        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nhi-vo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/nhi-vo?trk=profile-badge">Nhi Vo</a></div>
+              
                         </div>
                         {hero.image.caption && <figcaption class="mt-1.5 text-xs sm:text-sm">{hero.image.caption}</figcaption>}
                     </figure>
