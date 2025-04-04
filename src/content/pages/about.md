@@ -1,4 +1,5 @@
 ---
+import LinkedInBadge from '../../components/LinkedInBadge.astro';
 title: About
 seo:
   title: About Me
@@ -11,12 +12,7 @@ seo:
 ## Nhi Vo, Ph.D. - Data Science and Analytics Leader
 
 <div class="flex flex-col sm:flex-row sm:gap-8 items-start">
-  <!-- <img class="sm:w-1/3 rounded-full" src="/profile.jpg" alt="Alt text for image" /> -->
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nhi-vo" data-version="v1">
-      <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nhi-vo?trk=profile-badge">Nhi Vo</a>
-  </div>
+  <LinkedInBadge client:load />
   <div class="sm:w-2/3">
     Welcome to My Corner of Code, Curation and Curiosity!
     I'm Nhi Vo, a data science and analytics leader with a Ph.D. and a deep love for all things data — especially the messy, complicated kind. I thrive on optimizing algorithms, designing scalable analytics systems, and making sense of chaos with machine learning and statistical models. My expertise spans machine learning, statistical modeling, and large-scale data analysis, enabling teams to make informed, data-driven decisions. I have a passion for sharing knowledge and insights, and I believe in the power of collaboration to drive innovation. Feel free to reach out if you want to connect or collaborate.

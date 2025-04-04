@@ -1,0 +1,28 @@
+---
+const profileVanity = 'nhi-vo'; // Updated with the provided LinkedIn vanity URL
+---
+
+<div
+    class="badge-base LI-profile-badge"
+    data-locale="en_US"
+    data-size="medium"
+    data-theme="dark"
+    data-type="VERTICAL"
+    data-vanity={profileVanity}
+    data-version="v1"
+>
+    <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nhi-vo?trk=profile-badge">Nhi Vo</a>
+</div>
+
+<script>
+    if (typeof window !== 'undefined') {
+        // Ensure the LinkedIn badge script is loaded only once
+        if (!document.querySelector('script[src="https://platform.linkedin.com/badges/js/profile.js"]')) {
+            const script = document.createElement('script');
+            script.src = 'https://platform.linkedin.com/badges/js/profile.js';
+            script.async = true;
+            script.defer = true;
+            document.body.appendChild(script);
+        }
+    }
+</script>
