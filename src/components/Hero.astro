@@ -13,8 +13,18 @@ const hero = siteConfig.hero;
             <div class="flex flex-col sm:flex-row sm:gap-8">
                 {hero.image?.src && (
                     <figure class="sm:w-1/2">
-                        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nhi-vo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/nhi-vo?trk=profile-badge">Nhi Vo</a></div>
-              
+                        <div
+                            class="badge-base LI-profile-badge"
+                            data-locale="en_US"
+                            data-size="medium"
+                            data-theme="dark"
+                            data-type="VERTICAL"
+                            data-vanity="nhi-vo"
+                            data-version="v1"
+                        >
+                            <a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/nhi-vo?trk=profile-badge">
+                                Nhi Vo
+                            </a>
                         </div>
                         {hero.image.caption && <figcaption class="mt-1.5 text-xs sm:text-sm">{hero.image.caption}</figcaption>}
                     </figure>
@@ -33,3 +43,5 @@ const hero = siteConfig.hero;
         </section>
     )
 }
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
