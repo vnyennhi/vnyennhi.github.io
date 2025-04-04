@@ -1,5 +1,6 @@
----
 import LinkedInBadge from '../../components/LinkedInBadge.astro';
+
+---
 title: About
 seo:
   title: About Me
