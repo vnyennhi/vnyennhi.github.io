@@ -5,7 +5,6 @@ import Button from '../components/Button.astro';
 import Hero from '../components/Hero.astro';
 import PostPreview from '../components/PostPreview.astro';
 import ProjectPreview from '../components/ProjectPreview.astro';
-import LinkedInBadge from '../components/LinkedInBadge.astro';
 import siteConfig from '../data/site-config';
 import { sortItemsByDateDesc } from '../utils/data-utils';
 
@@ -18,21 +17,6 @@ const featuredProjects = projects.filter(({ data }) => data.isFeatured);
 
 <BaseLayout description={siteConfig.description} image={siteConfig.image}>
     <Hero />
-    <div class="flex flex-col sm:flex-row sm:gap-8 items-start">
-        <div class="sm:w-1/3">
-            <LinkedInBadge />
-        </div>
-        <div class="sm:w-2/3">
-            <h1>Welcome to My Corner of Code, Curation and Curiosity!</h1>
-            <p>
-                I'm Nhi Vo, a data science and analytics leader with a Ph.D. and a deep love for all things data — especially the messy, complicated kind. I
-                thrive on optimizing algorithms, designing scalable analytics systems, and making sense of chaos with machine learning and statistical models.
-                My expertise spans machine learning, statistical modeling, and large-scale data analysis, enabling teams to make informed, data-driven
-                decisions. I have a passion for sharing knowledge and insights, and I believe in the power of collaboration to drive innovation. Feel free to
-                reach out if you want to connect or collaborate.
-            </p>
-        </div>
-    </div>
     {
         featuredProjects?.length > 0 && (
             <div class="mb-16 sm:mb-24">

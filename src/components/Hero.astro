@@ -2,6 +2,7 @@
 import { marked } from 'marked';
 import Button from './Button.astro';
 import siteConfig from '../data/site-config';
+import LinkedInBadge from './LinkedInBadge.astro';
 
 const hero = siteConfig.hero;
 ---
@@ -13,7 +14,7 @@ const hero = siteConfig.hero;
             <div class="flex flex-col sm:flex-row sm:gap-8">
                 {hero.image?.src && (
                     <figure class="sm:w-1/2">
-                        <img class="w-full" src={hero.image.src} loading="lazy" decoding="async" alt={hero.image.alt || ''} />
+                        <LinkedInBadge />
                         {hero.image.caption && <figcaption class="mt-1.5 text-xs sm:text-sm">{hero.image.caption}</figcaption>}
                     </figure>
                 )}
