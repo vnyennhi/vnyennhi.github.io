@@ -57,16 +57,16 @@ module.exports = {
                             fontWeight: 500
                         },
                         blockquote: {
-                            border: 0,
+                            border: 0.5,
                             fontFamily: theme('fontFamily.serif'),
-                            fontSize: '1.3125em',
+                            fontSize: '1em',
                             fontStyle: 'italic',
                             fontWeight: 'normal',
-                            lineHeight: 1.4,
-                            paddingLeft: 0,
+                            lineHeight: 1,
+                            paddingLeft: '1em',
                             '@media (min-width: theme("screens.sm"))': {
                                 fontSize: '1.66667em',
-                                lineHeight: 1.3
+                                lineHeight: 1
                             }
                         }
                     }
@@ -74,7 +74,7 @@ module.exports = {
                 lg: {
                     css: {
                         blockquote: {
-                            paddingLeft: 0
+                            paddingLeft: '1em',
                         }
                     }
                 }
