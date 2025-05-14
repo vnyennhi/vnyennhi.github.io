@@ -57,7 +57,7 @@ module.exports = {
                             fontWeight: 500
                         },
                         blockquote: {
-                            border: 0.5,
+                            border: 5,
                             fontFamily: theme('fontFamily.serif'),
                             fontSize: '1em',
                             fontStyle: 'italic',
@@ -65,7 +65,7 @@ module.exports = {
                             lineHeight: 1,
                             paddingLeft: '1em',
                             '@media (min-width: theme("screens.sm"))': {
-                                fontSize: '1.66667em',
+                                fontSize: '1em',
                                 lineHeight: 1
                             }
                         }
