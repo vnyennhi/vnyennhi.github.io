@@ -57,7 +57,7 @@ module.exports = {
                             fontWeight: 500
                         },
                         blockquote: {
-                            borderLeftWidth: '10px',
+                            borderLeftWidth: '3px',
                             borderLeftStyle: 'solid',
                             borderLeftColor: '#ccc',
                             fontSize: '1em',
@@ -77,6 +77,12 @@ module.exports = {
                             },
                             'p::after': {
                                 content: 'none'
+                            },
+                            'p': {
+                                marginTop: 0,
+                                marginBottom: 0,
+                                paddingTop: 0,
+                                paddingBottom: 0
                             }
                         }
                     }
