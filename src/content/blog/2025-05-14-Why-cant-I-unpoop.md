@@ -7,17 +7,7 @@ tags:
   - English
   - Personal
 ---
-![...Why can't I unpoop?"
-
-When you flush, the water swirls down the toilet, never reversing. You never see it spontaneously refill with the exact same water molecules.
-
-This is entropy-the measure of disorder in a system. The Second Law of Thermodynamics states that in any natural process, disorder always increases. That's why you can't unpoop. Once your meal has been processed and dispersed, the system has become more disordered, and nature won't rewind.
-
-If entropy always increases, does that mean your bathroom will inevitably become messier over time?
-
-No matter how hard you try, cleanliness is impossible.
-
-Regretting it is pointless, so just give it your all.](/unpoop.jpeg)
+![](/unpoop.jpeg)
 
 
 I saw this poster about a month ago in a toilet inside Australian National University. I was wanting to write a blog about the shit in my life. But shit happened!
@@ -28,30 +18,27 @@ One of my aunties passed away due to cancer (f--k cancer). I flew back home for 
 
 Shit happened and is happening!
 
-> And I can't unpoop.
->
+> And I can't unpoop.  
 > Nature won't rewind. And time won't rewind. No matter how hard I try.
 
 My auntie can't live again. My parents can't be young and strong again. I can't work multiple jobs days and nights again. 
 
-> No matter how hard I try.
->
+> No matter how hard I try.  
 > Regretting it is pointless, so just give it your all.
 
 My mom and dad have been amazing at fighting their cancer, going to hospitals mostly by themselves. Wish I could be there for them. But they did not want me or my help (at some points). It's frustrated! I did not spend more time with my family.
 
-> No matter how hard I try.
->
+> No matter how hard I try.  
 > Regretting it is pointless, so just give it your all.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uz28MhmeO_g?si=nxVIMFBNJjD4flpV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-> Everthing will change, and you know that it's fine.
-> It will be fine.
+> Everthing will change, and you know that it's fine.  
+> It will be fine.  
 > It will be fine.
 
-> Until one day.
-> Until one day.
+> Until one day.  
+> Until one day.  
 > I have the answer.
 
 (or not)
