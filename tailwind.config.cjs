@@ -66,6 +66,18 @@ module.exports = {
                             lineHeight: '1.5',
                             margin: '1.5em 0',
                             padding: '0.5em 1em',
+                            '&::before': {
+                                content: 'none'
+                            },
+                            '&::after': {
+                                content: 'none'
+                            },
+                            'p::before': {
+                                content: 'none'
+                            },
+                            'p::after': {
+                                content: 'none'
+                            }
                         }
                     }
                 },
