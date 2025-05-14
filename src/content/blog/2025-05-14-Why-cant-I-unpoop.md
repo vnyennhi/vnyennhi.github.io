@@ -31,18 +31,20 @@ My mom and dad have been amazing at fighting their cancer, going to hospitals mo
 > No matter how hard I try.  
 > Regretting it is pointless, so just give it your all.
 
+I hope that one day, everything will be okay. My family will be okay. I will be okay.
+I give it my all. 
+
+> Cho đến một ngày (Until one day).  
+> Cho đến một ngày (Until one day).  
+> Con có câu trả lời (I have the answer).
+
+Lyrics from my favourite song these days.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uz28MhmeO_g?si=nxVIMFBNJjD4flpV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > Everthing will change, and you know that it's fine.  
 > It will be fine.  
 > It will be fine.
-
-> Until one day.  
-> Until one day.  
-> I have the answer.
-
-(or not)
-
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
