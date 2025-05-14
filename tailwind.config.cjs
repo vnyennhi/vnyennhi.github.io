@@ -57,17 +57,15 @@ module.exports = {
                             fontWeight: 500
                         },
                         blockquote: {
-                            border: 5,
-                            borderLeft: "10px solid #ccc",
+                            borderLeftWidth: '10px',
+                            borderLeftStyle: 'solid',
+                            borderLeftColor: '#ccc',
                             fontSize: '1em',
                             fontStyle: 'italic',
                             fontWeight: 'normal',
-                            lineHeight: 1,
-                            paddingLeft: '1em',
-                            '@media (min-width: theme("screens.sm"))': {
-                                fontSize: '1em',
-                                lineHeight: 1
-                            }
+                            lineHeight: '1.5',
+                            margin: '1.5em 0',
+                            padding: '0.5em 1em',
                         }
                     }
                 },
