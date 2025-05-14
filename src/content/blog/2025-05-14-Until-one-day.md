@@ -1,6 +1,6 @@
 ---
 author: Nhi Vo
-title: "Why can't I unpoop?"
+title: "Until one day"
 publishDate: 2025-05-14
 isFeatured: true
 tags:
