@@ -58,6 +58,8 @@ module.exports = {
                         },
                         blockquote: {
                             border: 5,
+                            borderColor: theme('borderColor.main / 100%'),
+                            color: theme('textColor.main / 100%'),
                             fontFamily: theme('fontFamily.serif'),
                             fontSize: '1em',
                             fontStyle: 'italic',
