@@ -11,35 +11,28 @@ seo:
 ## Nhi Vo, Ph.D. - Data Science and Analytics Leader
 
 <div class="flex flex-col sm:flex-row sm:gap-8 items-start">
-  <img class="sm:w-1/3 rounded-3xl" src="/profile.jpg"/>
+  <img class="sm:w-1/3 rounded-3xl" src="/profile.jpg" alt="Caricature portrait of Nhi Vo"/>
   <div class="sm:w-2/3">
-    Welcome to My Corner of Code, Curation and Curiosity!
-    I'm Nhi Vo, a data science and analytics leader with a Ph.D. and a deep love for all things data — especially the messy, complicated kind. I thrive on optimizing algorithms, designing scalable analytics systems, and making sense of chaos with machine learning and statistical models. My expertise spans machine learning, statistical modeling, and large-scale data analysis, enabling teams to make informed, data-driven decisions. I have a passion for sharing knowledge and insights, and I believe in the power of collaboration to drive innovation. Feel free to reach out if you want to connect or collaborate.
+    Welcome to my corner of code, curation, and curiosity. I am a Principal Data Scientist at Automattic, based in Australia, with a Ph.D. in data science and a fondness for messy, complicated data. I like the part where research becomes a useful system: a model people can trust, an analytics layer teams can actually read, or a recommendation engine that makes a difficult choice feel clearer.
   </div>
 </div>
 
-## Skills and Expertise
+## What I Work On
 
-I specialize in machine learning, statistical modeling, data analysis, and building scalable data solutions. My tech stack includes **Python**, **R**, **SQL**, **Druid SQL**, **Spark**, **Looker**, **Superset**, **Docker**, **AirFlow**, and many other data tools, and machine learning frameworks like **TensorFlow** and **Scikit-Learn**. I excel in optimizing data pipelines, performing advanced analytics, and implementing predictive models to drive business outcomes.
+I work across machine learning, statistical modeling, product analytics, experimentation, and scalable data systems. My toolkit includes **Python**, **R**, **SQL**, **Druid SQL**, **Spark**, **Looker**, **Superset**, **Docker**, **Airflow**, **TensorFlow**, and **Scikit-Learn**.
 
-## Data-Driven Problem Solving
+The projects that tend to hold my attention are the ones with a little friction in them: unstructured text, sparse signals, noisy behavioral data, and business questions that need both judgment and math.
 
-I thrive on tackling complex problems and transforming raw data into meaningful insights. Whether it's designing machine learning models, automating data workflows, or optimizing data infrastructure, I approach every challenge with a keen eye for efficiency and innovation.
+## Research Threads
 
-## Global Perspective, Local Impact
+My research has explored knowledge graphs for recommendation systems, NLP systems for course and career recommendations, churn prediction from unstructured call logs, causal inference, financial time series, socially responsible investment optimization, and personality mining from multimodal data.
 
-While I’m based in Australia, I have a global perspective on data science, working with teams across various industries and countries to unlock the potential of their data. I understand the importance of tailoring data solutions to both local and global contexts, ensuring they are both impactful and scalable.
+That mix still shapes how I think: useful data work needs modeling depth, clean communication, and a practical sense of where people will actually use the output.
 
-## Continuous Learning
+## How I Like To Work
 
-The world of data science is constantly evolving, and I am always exploring new methodologies, algorithms, and tools to stay ahead of the curve. I’m dedicated to expanding my expertise and keeping up with the latest trends to deliver the best possible solutions.
+I care about clear questions, honest metrics, and systems that make teams smarter over time. I like translating technical work for mixed audiences, building with collaborators across functions and countries, and keeping enough curiosity in the room that the first answer is not automatically treated as the best one.
 
-## Collaboration and Communication
+## Get In Touch
 
-I believe in the power of collaboration and clear communication. Whether working with cross-functional teams, stakeholders, or clients, I prioritize transparency and teamwork to ensure the success of each project. I take pride in making complex technical concepts understandable for everyone.
-
-## Get in Touch
-
-Interested in discussing how data science can drive your project forward or need help with a challenging problem? I'd love to connect! Feel free to reach out for collaboration, consultation, or just to talk about the latest in data science. Drop me an email at [vnyennhi@gmail.com](mailto:vnyennhi@gmail.com), and I'll do my best to respond as soon as possible.
-
-_Let's harness the power of data together!_
+You can reach me at [vnyennhi@gmail.com](mailto:vnyennhi@gmail.com) for collaboration, consulting, research conversations, or a good data problem that refuses to sit still.

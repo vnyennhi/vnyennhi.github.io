@@ -5,9 +5,9 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import Nav from '../components/Nav.astro';
 
-export type Props = HeadProps & { showHeader?: boolean };
+export type Props = HeadProps & { showHeader?: boolean; showNav?: boolean; showFooter?: boolean; wide?: boolean };
 
-const { showHeader = true, ...head } = Astro.props;
+const { showHeader = true, showNav = true, showFooter = true, wide = false, ...head } = Astro.props;
 ---
 
 <!doctype html>
@@ -15,20 +15,30 @@ const { showHeader = true, ...head } = Astro.props;
     <head>
         <BaseHead {...head} />
         <script>
-            if (localStorage.theme === 'dark') {
+            const themePreferenceSet = localStorage.getItem('theme-preference-set') === 'true';
+            const savedTheme = localStorage.getItem('theme');
+            const theme = themePreferenceSet && savedTheme === 'light' ? 'light' : 'dark';
+            if (!themePreferenceSet && savedTheme === 'light') {
+                localStorage.removeItem('theme');
+            }
+            if (theme === 'dark') {
                 document.documentElement.classList.add('dark');
+            }
+            const savedColor = localStorage.getItem('color-theme');
+            if (savedColor) {
+                document.documentElement.setAttribute('data-color-theme', savedColor);
             }
         </script>
         <ClientRouter />
     </head>
     <body class="bg-main text-main">
         <div class="flex flex-col min-h-screen px-4 md:px-8">
-            <Nav />
+            {showNav && <Nav />}
             {showHeader && <Header />}
-            <main class="grow w-full max-w-3xl mx-auto">
+            <main class:list={['grow w-full mx-auto', wide ? 'max-w-6xl' : 'max-w-3xl']}>
                 <slot />
             </main>
-            <Footer />
+            {showFooter && <Footer />}
         </div>
     </body>
 </html>
